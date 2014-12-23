@@ -1,0 +1,10 @@
+env: GOPATH=$TRAVIS_BUILD_DIR/gosrc
+  
+
+install:
+  - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
+  - curl -s https://www.parse.com/downloads/cloud_code/installer.sh | sudo /bin/bash
+  - go get -v github.com/spf13/hugo
+
+script: ./scripts/build_all.sh
+
