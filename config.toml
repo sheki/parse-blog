@@ -1,3 +1,6 @@
-baseurl = "http://sheki.in"
+baseurl = "http://sheki.in/"
 languageCode = "en-us"
 title = "shekispeaks"
+[indexes]
+  category = "categories"
+  tag = "tags"
