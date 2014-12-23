@@ -1,11 +1,12 @@
-env: GOPATH=$TRAVIS_BUILD_DIR/gosrc
-  
-
+env:
+  matrix:
+  - GOPATH=$TRAVIS_BUILD_DIR/gosrc
+  global:
+  - secure: qdUvvkRLew4OwMAaKKQG/JvnT0g+phb4QqPuJ7R1NS785Y1+45Al1xybNb3teLRlJgn2QjwLQu/LpkTIKnlDdry+AxWamPWE1wK+OVtbXK4C0OuOBAWscDDD+K8ABLDvjEkVBAyu/c1qk/0FKSiBxcVuynVlGwp25ZdrxGeacZA=
+  - secure: dgbL/zAPsLqUMiZd8Sjh0MQ6zS3Qabam6IRjNfMBM5JeNeJTsMZWaZQQTc731PV938jSb/sxtLhB6+hxiEYhbfipTohzEAi/CTXqHIdw6jA3hKbWX3VcYDmLtxAoFKRZ0cPh39kjugmo7DFJ7nGLbhzumhue4oPCv8rW1v5y3mE=
 install:
-  - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
-  - mkdir -p "$TRAVIS_BUILD_DIR/static" # git does not have empty dirs
-  - curl -s https://www.parse.com/downloads/cloud_code/installer.sh | sudo /bin/bash
-  - go get -v github.com/spf13/hugo
-
+- mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
+- mkdir -p "$TRAVIS_BUILD_DIR/static"
+- curl -s https://www.parse.com/downloads/cloud_code/installer.sh | sudo /bin/bash
+- go get -v github.com/spf13/hugo
 script: ./scripts/build_all.sh
-
