@@ -3,6 +3,7 @@ env: GOPATH=$TRAVIS_BUILD_DIR/gosrc
 
 install:
   - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
+  - mkdir -p "$TRAVIS_BUILD_DIR/static" # git does not have empty dirs
   - curl -s https://www.parse.com/downloads/cloud_code/installer.sh | sudo /bin/bash
   - go get -v github.com/spf13/hugo
 
