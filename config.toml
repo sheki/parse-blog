@@ -4,3 +4,6 @@ title = "shekispeaks"
 [indexes]
   category = "categories"
   tag = "tags"
+[params]
+  twitter = "sheki"
+  github = "sheki"
