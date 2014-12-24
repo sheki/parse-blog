@@ -1,6 +1,6 @@
 +++
 date = "2014-12-23T18:11:23-08:00"
-draft = true
+draft = false
 title = "Auto deploy your Hugo blog to Parse"
 
 +++
