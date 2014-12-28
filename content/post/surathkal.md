@@ -2,11 +2,11 @@
 date = "2014-12-27T13:53:53-08:00"
 draft = true
 title = "Surathkal"
-
+tags = [ "story", "mythology", "India" ]
 +++
 
 [Ravan](http://en.wikipedia.org/wiki/Ravan), the king of Lanka and the
-main antagonist of [Ramayana](http://en.wikipedia.org/wiki/Ramayana)
+main antagonist of the Hindu epic[Ramayana](http://en.wikipedia.org/wiki/Ramayana)
 was an ardent devotee of [Shiva](http://en.wikipedia.org/wiki/Shiva).
 Sometime before the main events of Ramayana unfolded, Ravan prayed to Shiva
 and got hold of a powerful relic - *Atma Lingam*. On a side note, Demons
@@ -38,3 +38,4 @@ In modern times Sirathkal is known as Surathkal, a suburb of
 life studying Computer Engineering at
 [NITK Surathkal](http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Karnataka).
 
+<iframe src="https://www.flickr.com/photos/15928109@N00/181474295/player/" width="500" height="375" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>

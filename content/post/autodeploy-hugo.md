@@ -2,7 +2,7 @@
 date = "2014-12-23T18:11:23-08:00"
 draft = false
 title = "Auto deploy your Hugo blog to Parse"
-
+tags = [ "code", "parse" ]
 +++
 
 I am very impressed by the current state of static website hosting tools.
