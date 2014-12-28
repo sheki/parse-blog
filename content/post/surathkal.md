@@ -38,4 +38,5 @@ In modern times Sirathkal is known as Surathkal, a suburb of
 life studying Computer Engineering at
 [NITK Surathkal](http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Karnataka).
 
-<iframe src="https://www.flickr.com/photos/15928109@N00/181474295/player/" width="500" height="375" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+![Surathkal](https://dl.dropboxusercontent.com/u/1467558/surathkal.jpg)
