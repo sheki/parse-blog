@@ -15,10 +15,10 @@ Hindu mythology). Shiva though, places a condition, that Ravan has to carry the
 Atma Lingam, without putting it down on the ground, until he reaches home -
 [Lanka](https://en.wikipedia.org/wiki/Lanka).
 
-The rest of the gods are worried that Ravan would become immensely powerful and
+The rest of the gods worry that Ravan would become immensely powerful and
 hard to defeat. The gods hatch a plan to ensure that Ravan puts the
-AtmaLingam on the ground before reaching Lanka. This scheme is to be carried by
-Shiva's son - [Ganesh](htps://en.wikipedia.org/wiki/Ganesh).
+AtmaLingam on the ground before reaching Lanka. [Ganesh](htps://en.wikipedia.org/wiki/Ganesh)
+Shiva's son - agrees to carry out the scheme.
 
 As Ravan is passing by [Gokarna](http://en.wikipedia.org/wiki/Gokarna), in
 modern day Karnataka, India - the gods hide the sun. Ravan believing that it is
