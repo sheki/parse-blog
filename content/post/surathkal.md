@@ -31,7 +31,7 @@ places the AtmaLingam on the ground, without calling out thrice.
 
 Ravan is devastated and tries to lift the AtmaLingam, but it won't budge.
 His force breaks a piece of the head of the Lingam. This piece falls a few
-hundred kilometers southwards,
+hundred kilometers southwards.
 The place where the stone falls is called Sirathkal
 (meaning head stone) in the local Tulu language.
 Ravan obviously goes back home dejected.
