@@ -1,6 +1,6 @@
 +++
-date = "2014-12-29T13:53:53-08:00"
-draft = true
+date = "2014-12-31T18:11:23-08:00"
+draft = false
 title = "Surathkal"
 tags = [ "mythology", "India" ]
 +++
@@ -9,7 +9,7 @@ tags = [ "mythology", "India" ]
 main antagonist of the Hindu epic [Ramayana](http://en.wikipedia.org/wiki/Ramayana)
 was an ardent devotee of [Shiva](http://en.wikipedia.org/wiki/Shiva).
 Sometime before the main events of Ramayana unfolded, Ravan prayed to Shiva
-and got hold of a powerful relic - *Atma Lingam* (demons
+and got hold of a powerful relic - *Atma Lingam*. (demons
 praying to gods and getting powerful relics / boons is a recurring theme in
 Hindu mythology). Shiva though, places a condition, that Ravan has to carry the
 Atma Lingam, without putting it down on the ground, until he reaches home -
@@ -27,9 +27,11 @@ approached by Ganesh, disguised as a priest. Ravan asks the priest to hold
 the AtmaLingam while he prays for a bit. Ganesh, agrees albeit with a condition
 that he will call his name three times, if Ravan does not respond, he will place
 the AtmaLingam on the ground. Ravan agrees and proceeds to pray. Ganesh
-places the AtmaLingam on the ground, without calling out thrice.
+places the AtmaLingam on the ground, without calling out thrice. He basically
+cheats.
 
-Ravan is devastated and tries to lift the AtmaLingam, but it won't budge.
+The relic now on the ground cannot be moved. Ravan is devastated and tries to
+lift the AtmaLingam, but it won't budge.
 His force breaks a piece of the head of the Lingam. This piece falls a few
 hundred kilometers southwards.
 The place where the stone falls is called Sirathkal
@@ -40,5 +42,7 @@ In modern times Sirathkal is known as Surathkal, a suburb of
 [Mangalore](http://en.wikipedia.org/wiki/Mangalore). I spent four years
 studying Computer Engineering there at
 [NITK Surathkal](http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Karnataka).
+
+I am curious about how places get their names, this was the story of Surathkal.
 
 ![Surathkal](https://dl.dropboxusercontent.com/u/1467558/surathkal.jpg)
