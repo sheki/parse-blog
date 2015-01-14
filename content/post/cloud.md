@@ -14,5 +14,16 @@ statement for a while
 
 > The cloud is as scalable as its largest customer.
 
-The truth is nobody builds infinitely scalable. Software after all runs on
-hardware, which has physical limits, sometimes limits li
+The truth is nobody builds infinitely scalable data-centers. Software after all runs on
+hardware, which has physical limits, sometimes limits like speed of light.
+
+So what is a good measure for the elasticity/capacity of a cloud service?
+It is their largest customer.
+Netflix runs on AWS, so you won't likely run into problems
+in video streaming as Netflix would have already hit those problems and
+AWS would have fixed on them or is fixing right now.
+
+A cloud service is usually pushed to limits by its biggest customer. But it is
+symbiotic relationship, the big customer discovers flaws and good cloud providers
+fix them. So the next time you are deciding a cloud service, look at the biggest
+customers of a service, it will give you a measure of the elasticity of the said cloud.
