@@ -6,25 +6,22 @@ tags = [ "cloud", "opinion" ]
 +++
 
 All cloud services have a page where they boast about their top users.
-A developer may believe that it is marketing and
-it should not be factor in choosing a cloud services.
+A developer may believe that it is marketing and ignore it. That is a tad immature.
 
-That line of thinking is a little immature. To understand just chew on this pithy
-statement for a while
+Time for a pithy one-liner :
 
-> The cloud is as scalable as its largest customer.
+> **The cloud is as big as its largest customer.**
 
-The truth is nobody builds infinitely scalable data-centers. Software runs on
-hardware, which has physical limits, sometimes limits like speed of light.
+The reason is nobody builds infinitely scalable data-centers. Software runs on
+hardware, which has physical limits, sometimes limits like speed of light. And then
+there are business reasons.
 
-Usually it is their largest customer which pushes their limits.
+Usually it is the largest customer who pushes their limits.
 
 For example: Netflix runs on AWS, so you won't likely run into problems running
 a video streaming app on AWS, as  Netflix would have already discovered those
-problems and AWS would have fixed on them or is fixing right now.
+problems and AWS would have fixed on them.
 
-A cloud service is usually pushed to limits by its biggest customer. It is
-symbiotic relationship, the big customer discovers flaws and good cloud providers
-fix them. So the next time you are deciding a cloud service, look at the biggest
-customers of a service, it will give you a measure of the elasticity of
-the said cloud.
+It is symbiotic relationship, the big customer discovers flaws and good cloud providers
+fix them. So the next time you are deciding which cloud service to use, carefully look at their biggest
+customers.
