@@ -12,7 +12,7 @@ specific font stacks to ensure the greatest OS/browser compatibility.
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
     /* Set your content font stack here: */
-    font-family: "Source Sans Pro", serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 a {
