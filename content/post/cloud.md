@@ -1,6 +1,6 @@
 +++
 date = "2015-01-12T20:04:51-08:00"
-draft = true
+draft = false
 title = "Elasticity of the Cloud."
 tags = [ "cloud", "opinion" ]
 +++
