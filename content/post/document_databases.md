@@ -6,7 +6,7 @@ title = "The document databases."
 +++
 
 Document databases or schema-less databases are the first choice for building
-web and mobile apps nowadays. [MongoDB](https://mongodb.com) is a very good
+apps nowadays. [MongoDB](https://mongodb.com) is a very good
 example of a schema-less database if one is managing their own infrastructure.
 
 Every cloud service provider has a document database option available as a service.
@@ -45,6 +45,25 @@ Google Cloud Datastore
 * Automatically adds indexes for all fields in an entity.
 * developer has to define compound indexes (they call it a composite index).
 * Their developer tool kit claims to suggest indexes if it encounters a query without an index. This is a unique and neat feature.
-* has been around for a while, from right when google app engine launched.
+* Has been around for a while, from right when google app engine launched.
 * 1MB max object size, it is the largest allowed. 20,000 indexes per collection/entity.
 * A hard to understand limit on compound index size "Maximum number of bytes in composite indexes for an entity". I think this could be made a bit clearer.
+
+Parse
+-----
+(Full disclosure => at the time of writing I work at Parse.com)
+* It is schema-less but you cannot change type once you add a member in a class/collection.
+* Custom JSON based query language.
+* Indexing as a concept is not exposed. There are systems in the background which create compound and simple indexes for you. I think this is a great feature and reduces and reduces cognitive load.
+* Supports about 300,000 apps, so it has been in production for a while.
+* The objects are limited to 128KB.
+
+Amazon Dynamo
+-------------
+* It requires defining a primary id field, apart from that it is schemaless.
+* It has complicated JSON based query language. Of all the stores this is the most complicated query model.
+* You can define global secondary indexes, but you have to define throughput limits while defining. This is pretty hard and complicated.
+* It limits you to 5 secondary indexes.
+* The object size cannot exceed 400KB.
+
+I think this space is going to get heated up with these new services maturing, third party solutions emerging to manage them and the limits easing up. Exciting times ahead.
