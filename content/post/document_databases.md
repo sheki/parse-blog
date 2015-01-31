@@ -43,7 +43,7 @@ Google Cloud Datastore
 * It is practically schema less and you can add fields to without specifying it anywhere.
 * It has a custom JSON based query language or has an almost SQL like GQL interface.
 * Automatically adds indexes for all fields in an entity.
-* developer has to define compound indexes (they call it a composite index).
+* Developer has to define compound indexes (they call it a composite index).
 * Their developer tool kit claims to suggest indexes if it encounters a query without an index. This is a unique and neat feature.
 * Has been around for a while, from right when google app engine launched.
 * 1MB max object size, it is the largest allowed. 20,000 indexes per collection/entity.
@@ -52,6 +52,7 @@ Google Cloud Datastore
 Parse
 -----
 (Full disclosure => at the time of writing I work at Parse.com)
+
 * It is schema-less but you cannot change type once you add a member in a class/collection.
 * Custom JSON based query language.
 * Indexing as a concept is not exposed. There are systems in the background which create compound and simple indexes for you. I think this is a great feature and reduces and reduces cognitive load.
