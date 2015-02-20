@@ -12,7 +12,7 @@ specific font stacks to ensure the greatest OS/browser compatibility.
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
     /* Set your content font stack here: */
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 a {
@@ -128,7 +128,7 @@ h3 {
     margin-left: 1em;
 }
 .post-description {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #333;
 }
 .post-meta {
