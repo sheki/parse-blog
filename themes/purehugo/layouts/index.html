@@ -8,27 +8,29 @@
             <!-- A wrapper for all the blog posts -->
             <div class="posts">
                 {{ range .Data.Pages }}
-                <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
-                <section class="post">
-                    <header class="post-header">
+                  {{ if eq .Type "post" }}
+                    <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
+                    <section class="post">
+                        <header class="post-header">
 
-                        <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
+                            <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
 
-                        <p class="post-meta">
-                            {{ with .Params.author }}
-                                By <strong class="post-author">{{ . }}</strong>
-                            {{ end }}
-                            {{ if isset .Params "categories" }}
-                                under 
-                                {{ range .Params.categories }}<a class="post-category post-category-{{ . }}" href="/categories/{{ . | urlize }}">{{ . }}</a>{{ end }}
-                            {{ end }}
-                        </p>
-                    </header>
+                            <p class="post-meta">
+                                {{ with .Params.author }}
+                                    By <strong class="post-author">{{ . }}</strong>
+                                {{ end }}
+                                {{ if isset .Params "categories" }}
+                                    under 
+                                    {{ range .Params.categories }}<a class="post-category post-category-{{ . }}" href="/categories/{{ . | urlize }}">{{ . }}</a>{{ end }}
+                                {{ end }}
+                            </p>
+                        </header>
 
-                    <div class="post-description">
-                        {{ .Content }}
-                    </div>
-                </section>
+                        <div class="post-description">
+                            {{ .Content }}
+                        </div>
+                    </section>
+                  {{ end }}
                 {{ end }}
             </div>
             {{ partial "footer.html" . }}
