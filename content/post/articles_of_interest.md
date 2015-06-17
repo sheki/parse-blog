@@ -6,4 +6,6 @@ title = "Articles of Interest"
 +++
 
 * http://martinfowler.com/bliki/MonolithFirst.html
+* http://martinfowler.com/bliki/FlagArgument.html
+
 
