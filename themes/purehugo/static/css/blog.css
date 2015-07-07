@@ -128,8 +128,9 @@ h3 {
     margin-left: 1em;
 }
 .post-description {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #333;
+    font-size: x-large;
 }
 .post-meta {
     color: #999;
