@@ -130,7 +130,8 @@ h3 {
 .post-description {
     font-family: 'Roboto', sans-serif;
     color: #333;
-    font-size: x-large;
+    font-size: large;
+    line-height: 150%;
 }
 .post-meta {
     color: #999;
