@@ -5,5 +5,6 @@ title = "Ideas"
 
 +++
 
-##Blog Ideas
+Blog Ideas
+----------
 * Why I love go. does not allow you to abstract / its boring / standard library is epic.
