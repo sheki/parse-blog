@@ -11,3 +11,4 @@ Index
 -----
 * [Podcasts](podcasts)
 * [Links](links)
+* [Ideas](ideas)
