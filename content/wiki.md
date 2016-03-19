@@ -14,3 +14,4 @@ Index
 * [Ideas](ideas)
 * [React](react)
 * [Books](books)
+* [Cooking](cooking)
