@@ -15,3 +15,4 @@ Index
 * [React](react)
 * [Books](books)
 * [Cooking](cooking)
+* [Programming Macros](programming-macros)
