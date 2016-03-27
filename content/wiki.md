@@ -16,3 +16,4 @@ Index
 * [Books](books)
 * [Cooking](cooking)
 * [Programming Macros](programming-macros)
+* [Mexico City](mexico-city)
