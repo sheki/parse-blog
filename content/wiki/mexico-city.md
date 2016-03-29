@@ -8,6 +8,8 @@ title = "Mexico City"
 Restaurents
 -----------
 
+* Tamale seller in front of La Espiga
+* Tamalerías Flor de Lis
 * Restaurante Nicos
 * Mercado de la Merced
 * Bósforo - hidden mezcal bar.
