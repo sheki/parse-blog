@@ -17,3 +17,6 @@ Books
 * The Yid: A Novel by Paul Goldberg (Picador) Russia Holocaust funny
 * Sudden Death random trip tennis match in 1500s
 * Don't make me think
+* Originals: How Non-Conformists Move the World
+* The industries of the future
+* Sprint - google ventures problem solving [link](http://www.amazon.com/Sprint/dp/1501140809/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1451196533&sr=8-2)
