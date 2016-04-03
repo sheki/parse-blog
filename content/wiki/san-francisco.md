@@ -13,3 +13,7 @@ Coffee
 * Harth coffee roasters 17th street.
 * Snowbird Coffee
 
+Sushi
+-----
+* Akiko’s Restaurant & Sushi Bar
+* Zushi Puzzle
