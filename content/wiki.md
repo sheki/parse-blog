@@ -19,3 +19,4 @@ Index
 * [Mexico City](mexico-city)
 * [San Francisco](san-francisco)
 * [Oakland](oakland)
+* [Fitness](fitness)
