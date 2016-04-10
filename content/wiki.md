@@ -20,3 +20,4 @@ Index
 * [San Francisco](san-francisco)
 * [Oakland](oakland)
 * [Fitness](fitness)
+* [India](india)
