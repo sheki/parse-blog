@@ -5,6 +5,10 @@ title = "India"
 
 +++
 
+Bombay
+-----
+* [The Bombay Canteen](http://thebombaycanteen.com/)
+
 Delhi
 -----
 
