@@ -24,3 +24,4 @@ Hikes
 
 * Wright Peak Clear lake - 3hrs north of sf [link](http://weekendsherpa.com/stories/hiking-to-wright-peak-on-mount-konocti-in-clear-lake-california/)
 * Borges Park Walnut creek [link](http://www.sfgate.com/outdoors/urbanoutings/article/Borges-Ranch-to-Castle-Rock-Day-hike-full-of-5075963.php)
+* Pier 98 Heron park [link](http://www.sfgate.com/outdoors/urbanoutings/article/Heron-s-Head-Park-Premier-bird-watching-spot-in-5390178.php)
