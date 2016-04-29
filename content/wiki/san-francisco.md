@@ -15,5 +15,12 @@ Coffee
 
 Sushi
 -----
+
 * Akiko’s Restaurant & Sushi Bar
 * Zushi Puzzle
+
+Hikes
+-----
+
+* Wright Peak Clear lake - 3hrs north of sf [link](http://weekendsherpa.com/stories/hiking-to-wright-peak-on-mount-konocti-in-clear-lake-california/)
+
