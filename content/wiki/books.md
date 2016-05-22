@@ -11,7 +11,6 @@ Books
 * City of Fire By Garth Risk Hallberg New York Punk Mystery
 * Non Violent Communication
 * The visual display of quantitative information
-* Viral Loop
 * Road to charecter - book about being a founder
 * the collapse the accidental opening of the berlin wall
 * 2666 Robert Bolano
