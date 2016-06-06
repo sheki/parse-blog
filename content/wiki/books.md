@@ -23,3 +23,5 @@ Books
 * Stress Test: Reflections on Financial Crises - Bill Gates
 * The Rosie Project: A Novel
 * Sapiens
+* How to Castrate a Bull: Unexpected Lessons on Risk, Growth, and Success in Business Hardcover
+
