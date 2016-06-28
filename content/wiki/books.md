@@ -24,4 +24,6 @@ Books
 * The Rosie Project: A Novel
 * Sapiens
 * How to Castrate a Bull: Unexpected Lessons on Risk, Growth, and Success in Business Hardcover
-
+* Alexander Hamilton [link](https://www.goodreads.com/book/show/16130.Alexander_Hamilton?ac=1&from_search=true)
+* How will you measure your life [link](https://www.goodreads.com/book/show/13425570-how-will-you-measure-your-life)
+* Ogilvy on Advertising
