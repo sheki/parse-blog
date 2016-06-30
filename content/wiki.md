@@ -21,3 +21,4 @@ Index
 * [Oakland](oakland)
 * [Fitness](fitness)
 * [India](India)
+* [Tulum](tulum)
