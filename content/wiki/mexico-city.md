@@ -31,4 +31,11 @@ Roma
 * Bar Licorería Limantour
 * Lunch at Maximo Bistrot (lunch)
 
-
+3rd Trip
+=======
+* Panderia Rosetta
+* Xampaneria Mezcal
+* Mercado San Juan
+* Pujol
+* Lardo brunch
+* Fonda Mayora brunch fancy
