@@ -27,3 +27,7 @@ Books
 * Alexander Hamilton [link](https://www.goodreads.com/book/show/16130.Alexander_Hamilton?ac=1&from_search=true)
 * How will you measure your life [link](https://www.goodreads.com/book/show/13425570-how-will-you-measure-your-life)
 * Ogilvy on Advertising
+* Find Me Unafraid: Love, Loss, and Hope in an African Slum (YC Summer List)
+* Hadrians Wall - hardcore history
+* Intelligent Investor - basics of investing ?
+
