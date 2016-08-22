@@ -30,4 +30,4 @@ Books
 * Find Me Unafraid: Love, Loss, and Hope in an African Slum (YC Summer List)
 * Hadrians Wall - hardcore history
 * Intelligent Investor - basics of investing ?
-
+* No Logo [link](https://www.amazon.com/No-Logo-Anniversary-Introduction-Author/dp/0312429274)
