@@ -13,11 +13,14 @@ Coffee
 * Harth coffee roasters 17th street.
 * Snowbird Coffee
 
-Sushi
------
+
+Restaurants
+-----------
 
 * Akiko’s Restaurant & Sushi Bar
-* Zushi Puzzle
+* Zushi Puzzle [sushi]
+* Camino Oakland
+* Los Cilantros Berkley
 
 Hikes
 -----
