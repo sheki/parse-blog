@@ -13,11 +13,9 @@ Books
 * The visual display of quantitative information
 * Road to charecter - book about being a founder
 * the collapse the accidental opening of the berlin wall
-* 2666 Robert Bolano
 * The Yid: A Novel by Paul Goldberg (Picador) Russia Holocaust funny
 * Don't make me think
 * Originals: How Non-Conformists Move the World
-* The industries of the future
 * Value proposition design [link](http://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050/)
 * Should we eat meat - vaclav smith - Bill Gates recommended.
 * Stress Test: Reflections on Financial Crises - Bill Gates
@@ -31,3 +29,4 @@ Books
 * Hadrians Wall - hardcore history
 * Intelligent Investor - basics of investing ?
 * No Logo [link](https://www.amazon.com/No-Logo-Anniversary-Introduction-Author/dp/0312429274)
+* The Revolutionaries Try Again
