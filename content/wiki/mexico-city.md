@@ -43,3 +43,8 @@ Roma
 * Publico Comedor (brunch)
 * Mero Tero Roma (baja)
 * maxim bistro
+* http://github.com/pachyderm/pachyderm
+* La puerta abiera bakery Roma norte
+* baltra drinks
+* cine tonala
+
