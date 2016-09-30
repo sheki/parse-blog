@@ -39,3 +39,7 @@ Roma
 * Pujol
 * Lardo brunch
 * Fonda Mayora brunch fancy
+* Helado Oscuro mexico
+* Publico Comedor (brunch)
+* Mero Tero Roma (baja)
+* maxim bistro
