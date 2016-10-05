@@ -15,7 +15,6 @@ Books
 * the collapse the accidental opening of the berlin wall
 * The Yid: A Novel by Paul Goldberg (Picador) Russia Holocaust funny
 * Don't make me think
-* Originals: How Non-Conformists Move the World
 * Value proposition design [link](http://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050/)
 * Should we eat meat - vaclav smith - Bill Gates recommended.
 * Stress Test: Reflections on Financial Crises - Bill Gates
