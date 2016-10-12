@@ -32,3 +32,4 @@ Books
 * Ethics in the Real World: 82 Brief Essays on Things That Matter
 * The Debt to Pleasure (mark bittman recommended)
 * Growth Hacker Marketing https://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising/dp/1591847389
+* The Years with Laura Diaz
