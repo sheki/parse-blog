@@ -13,7 +13,7 @@ Index
 * [Links](links)
 * [Ideas](ideas)
 * [React](react)
-* [Books](books)
+* [Books](https://sheki.quip.com/RkoIAlGZObf9)
 * [Cooking](cooking)
 * [Programming Macros](programming-macros)
 * [Mexico City](mexico-city)
