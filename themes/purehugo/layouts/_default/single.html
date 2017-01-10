@@ -22,8 +22,15 @@
                                 {{ range .Params.categories }}<a class="post-category post-category-{{ . }}" href="/categories/{{ . | urlize }}">{{ . }}</a>{{ end }}
                             {{ end }}
                         </p>
+                      {{ if isset .Params "tags" }} 
+                        <div class="tags">
+                          <div>Tags:</div>
+                          {{ range .Params.tags }}
+                            <div><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </div>
+                          {{ end }}
+                      </div>
+                      {{ end }}
                     </header>
-
                     <div class="post-description">
                         {{ .Content }}
                     </div>
