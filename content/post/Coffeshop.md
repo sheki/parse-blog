@@ -1,6 +1,6 @@
 +++
 date = "2016-12-23T12:37:13-08:00"
-title = "Coffe shop"
+title = "Coffee shop"
 draft = false
 
 +++
