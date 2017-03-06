@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Randoms on shekispeaks</title>
+    <link>http://sheki.in/random/index.xml</link>
+    <description>Recent content in Randoms on shekispeaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Feb 2015 13:26:08 +0530</lastBuildDate>
+    <atom:link href="http://sheki.in/random/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://sheki.in/random/</link>
+      <pubDate>Sat, 21 Feb 2015 13:26:08 +0530</pubDate>
+      
+      <guid>http://sheki.in/random/</guid>
+      <description>&lt;p&gt;Test yo&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

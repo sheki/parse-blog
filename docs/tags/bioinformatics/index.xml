@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics on shekispeaks</title>
+    <link>http://sheki.in/tags/bioinformatics/index.xml</link>
+    <description>Recent content in Bioinformatics on shekispeaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://sheki.in/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Enlitic</title>
+      <link>http://sheki.in/note/Enlitic/</link>
+      <pubDate>Mon, 09 Jan 2017 19:35:56 -0800</pubDate>
+      
+      <guid>http://sheki.in/note/Enlitic/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.economist.com/news/science-and-technology/21713828-silicon-valley-has-squidgy-worlds-biology-and-disease-its-sights-will&#34;&gt;http://www.economist.com/news/science-and-technology/21713828-silicon-valley-has-squidgy-worlds-biology-and-disease-its-sights-will&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is obvious that pattern matching and data science will eventuall lead to better medicine.&lt;/li&gt;
+&lt;li&gt;Medical care should become great due to data driven decisions.&lt;/li&gt;
+&lt;li&gt;Enlitic is a startup in this space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

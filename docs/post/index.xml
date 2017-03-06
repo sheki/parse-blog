@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on shekispeaks</title>
+    <link>http://sheki.in/post/index.xml</link>
+    <description>Recent content in Posts on shekispeaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 21:35:28 -0800</lastBuildDate>
+    <atom:link href="http://sheki.in/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>analyzing-postgres-queries</title>
+      <link>http://sheki.in/post/analyzing_postgres_queries/</link>
+      <pubDate>Sun, 05 Mar 2017 21:35:28 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/analyzing_postgres_queries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffee shop</title>
+      <link>http://sheki.in/post/Coffeshop/</link>
+      <pubDate>Fri, 23 Dec 2016 12:37:13 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/Coffeshop/</guid>
+      <description>&lt;p&gt;A bright but colorless coffee shop opens in your neighborhood.
+They have croissants, bagels and Gibraltar coffee.
+La Luz (a Spanish American band) plays in the background. You don’t recognize La Luz.&lt;/p&gt;
+
+&lt;p&gt;You think the shop is out of place. You wonder who are these folks at this coffee shop.
+Their colorless black rain jackets complement the white pale decor. They blend in.&lt;/p&gt;
+
+&lt;p&gt;The coffee shop acts as if they are a local institution. You scoff when the people tell their friends that they have been coming here forever. This place was here before they moved in nearby. The coffee shop is ancient — at least in their minds.&lt;/p&gt;
+
+&lt;p&gt;You feel foolish. You did the same thing as the “yuppies” at “your local coffee shop” four years ago.&lt;/p&gt;
+
+&lt;p&gt;(Thoughts from I went to newly opened Hearth coffee shop in Castro and laughed at the solidarity I felt towards Linea cafe in Mission, SF).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vim CtrlP per directory cache</title>
+      <link>http://sheki.in/post/Vim_CtrlP_per_directory_cache/</link>
+      <pubDate>Thu, 17 Mar 2016 09:25:03 -0700</pubDate>
+      
+      <guid>http://sheki.in/post/Vim_CtrlP_per_directory_cache/</guid>
+      <description>&lt;p&gt;I use the awesome &lt;a href=&#34;https://kien.github.io/ctrlp.vim/&#34;&gt;ctrlp&lt;/a&gt; in VIM.
+At any given point of time I work in multiple directories (git projects).
+This often pollutes my CtrlP MRU Cache.&lt;/p&gt;
+
+&lt;p&gt;For example - I get results for Api directory when I
+am modifying code in my Web directory. This is midly irritating.  To solve this
+you can set the &lt;strong&gt;ctrlp_cache_dir&lt;/strong&gt; with a prefix of the current directory. Here is a snippet to do that.&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/sheki/7b4180ae582572babde8.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week in review 7 March 2016</title>
+      <link>http://sheki.in/post/Week-in-review-7-March-2016/</link>
+      <pubDate>Wed, 16 Mar 2016 12:19:59 -0700</pubDate>
+      
+      <guid>http://sheki.in/post/Week-in-review-7-March-2016/</guid>
+      <description>&lt;p&gt;We went to Portland ( me, Belle, Vlad and Srik). It was Vlad&amp;rsquo;s good bye trip. He is moving to New York at the end of this week. This is partly sad and partly exciting.&lt;/p&gt;
+
+&lt;p&gt;I feel I expected a lot more from Portland the city due to pop culture references. It had good restaurants and bars - very good for a mid sized US city, but nothing made me feel like I can live here. The continuous gloomy rain did not help.&lt;/p&gt;
+
+&lt;p&gt;I finished reading Martin Amis&amp;rsquo; &lt;a href=&#34;http://www.theguardian.com/books/2014/aug/22/the-zone-of-interest-martin-amis-review-holocaust&#34;&gt;Zone of Interest&lt;/a&gt;. It was a good dark fiction book set in Auschwitz. The book was very well researched.&lt;/p&gt;
+
+&lt;p&gt;At work I launched the &lt;a href=&#34;https://cuenta.thinkbright.mx&#34;&gt;customer portal for bright&lt;/a&gt;. This is going to be huge.&lt;/p&gt;
+
+&lt;p&gt;I had dinner at &lt;a href=&#34;http://www.foreigncinema.com/&#34;&gt;Foriegn Cinema&lt;/a&gt; for the first time. They have a very good bavette steak.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week in review 29 Feb 2016</title>
+      <link>http://sheki.in/post/Week-in-review-29-Feb-2016/</link>
+      <pubDate>Mon, 07 Mar 2016 15:20:20 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/Week-in-review-29-Feb-2016/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;I spent the Sunday snow boarding at Heavenly resort in South Lake Tahoe. Thanks to the storm on Saturday night, there was fresh powder on all the slopes. It was a great day to snow board.&lt;/li&gt;
+&lt;li&gt;In related news it has been a &lt;a href=&#34;https://www.theatlantic.com/science/archive/2016/03/rain-bay-area-el-nino-california-drought/472482/&#34;&gt;wet week in the bay area, with 7 inches of rain&lt;/a&gt;. The fields were lush green on the way up to Tahoe, a welcome relief from the usual California gold color.&lt;/li&gt;
+&lt;li&gt;For the first time in my life, I went roller blading. &lt;a href=&#34;http://www.churchof8wheels.com/&#34;&gt;Church of 8 Wheels&lt;/a&gt; is an event where you roller blade in a church in the Haight. Everyone was having a blast. The crowd was real friendly. I fell a few times. One of the places I should have checked out a long time ago in San Francisco.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bye Bye Facebook.</title>
+      <link>http://sheki.in/post/bye_bye_facebook/</link>
+      <pubDate>Tue, 17 Nov 2015 10:48:23 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/bye_bye_facebook/</guid>
+      <description>&lt;p&gt;This is a copy of my Goodbye message I posted internally at Facebook.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Monday, (Nov 16) is my last day at Facebook.I was looking at the goodbye posts former People of Facebook for inspiration for my post. But instead, I decided to generate a message from the awesome corpus there.&lt;/p&gt;
+
+&lt;p&gt;This computer generated artisanal message mostly captures what I want to say:&lt;/p&gt;
+
+&lt;p&gt;So i really want to take this opportunity to say, after 4+ years of wonderful journey, the coming monday (nov-16) will be my last day at facebook.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been a wonderful experience. Everyone i’ve worked with here truly cares about what is next in life. I have royally fucked up.&lt;/p&gt;
+
+&lt;p&gt;I feel sorry that I will never would have been able to doordash in. It is, of you all the facebook kool-aid. I&amp;rsquo;ll be strangers! the new friends around in the apartment.  It&amp;rsquo;s user-base by mass and it won’t change how to stay cool. Wherever it is no immediate plans, i’m incredibly hard to analytics.&lt;/p&gt;
+
+&lt;p&gt;We all across the future where I decided to mobile-first. I absolutely fine without working on the company 4.5 years at facebook.  Please don&amp;rsquo;t be a stranger.&lt;/p&gt;
+
+&lt;p&gt;I wouldn&amp;rsquo;t be who i am today if i hadn&amp;rsquo;t gone through the many refactors i did. There is so many good friends. Facebook is truly an incredible place to work.&lt;/p&gt;
+
+&lt;p&gt;I &amp;rsquo;ll be moving up to san francisco.&lt;/p&gt;
+
+&lt;p&gt;Before i joined facebook, the goal was to get to this point. After about 6.5 years, it’s time for me to find some job in vietnam.  I hope to take a part of sleep that no one of you will.&lt;/p&gt;
+
+&lt;p&gt;I am also incredibly smart and i’m really.&lt;/p&gt;
+
+&lt;p&gt;/end of generated message.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here is my code &lt;a href=&#34;https://gist.github.com/sheki/19c4f439dfbae074df00&#34;&gt;https://gist.github.com/sheki/19c4f439dfbae074df00&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I wish people expressed their feelings in a standardized way using JSON or GraphQL.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RootConf 2015</title>
+      <link>http://sheki.in/post/rootconf_2015/</link>
+      <pubDate>Sun, 24 May 2015 22:04:03 +0200</pubDate>
+      
+      <guid>http://sheki.in/post/rootconf_2015/</guid>
+      <description>&lt;p&gt;I attended &lt;a href=&#34;https://rootconf.talkfunnel.com/2015/schedule&#34;&gt;RootConf 2015&lt;/a&gt;
+in Bangalore. A big shout out to
+&lt;a href=&#34;https://hasgeek.com/&#34;&gt;HasGeek&lt;/a&gt; for putting together a good conference.
+I gave a talk on &lt;a href=&#34;http://www.youtube.com/watch?v=YXAwSHYdOqc&#34;&gt;Rewriting Parse.com&lt;/a&gt; there.&lt;/p&gt;
+
+&lt;p&gt;I got a nice Introduction to SaltStack by &lt;a href=&#34;https://twitter.com/cachedout&#34;&gt;Mike Place&lt;/a&gt;. Salt Stack looks like a cleaner better Chef/Puppet. A few Engineers I trust love it.
+&lt;a href=&#34;https://twitter.com/anandology&#34;&gt;Anand Chitipothu&lt;/a&gt; presented a biased comparison of how Postgres is better than MySQL. He mostly compared MySQL 5.5 with MyISAM.
+MySQL 5.6+ with InnoDB (the default option now) addresses majority of the
+issues pointed out in the talk. I loved the &lt;a href=&#34;https://www.slideshare.net/extremeunix/quick-primer-on-http2&#34;&gt;HTTP2 Primer&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/extremeunix&#34;&gt;Cyrus Dasadia&lt;/a&gt;. It was simple introduction to the new standard.&lt;/p&gt;
+
+&lt;p&gt;I hosted a Database BoF with &lt;a href=&#34;https://twitter.com/anandology&#34;&gt;Anand&lt;/a&gt;. The discussion quickly
+split off into MySQL and the rest. A gentleman spoke about interesting problem of arranging data on to
+various storage layers according to access patterns in
+&lt;a href=&#34;https://en.wikipedia.org/wiki/SAP_HANA&#34;&gt;SAP HANA&lt;/a&gt;. Some one gave a good introduction to AerospikeDB. The MySQL
+group was mostly discussed HA strategies. MySQL looked like the main database of
+choice of people in the Bangalore tech scene. I did not find any serious deployments
+of non MySQL databases there. This was my first time hand holding a session,
+I liked it and for a moment considered a career as a Tech-Host.&lt;/p&gt;
+
+&lt;p&gt;Few women attended the conference. I guess &amp;ldquo;Women in Tech&amp;rdquo; is not an issue the
+Bangalore scene is talking about yet.&lt;/p&gt;
+
+&lt;p&gt;I met a few cool startups, a few users of &lt;a href=&#34;https://parse.com&#34;&gt;Parse.com&lt;/a&gt; and a
+few old friends. I was happy to be part of RootConf.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A conversation to remember.</title>
+      <link>http://sheki.in/post/a_conversation_to_remember/</link>
+      <pubDate>Sat, 21 Feb 2015 00:18:43 +0530</pubDate>
+      
+      <guid>http://sheki.in/post/a_conversation_to_remember/</guid>
+      <description>&lt;p&gt;I sometimes wonder, why I blog but it is to often to tell myself a story. Time
+erodes your memories and you just have big events in your brain, but sometimes
+it is the small things that happen to you which you enjoy.&lt;/p&gt;
+
+&lt;p&gt;So today I republish a post of mine from 2009. I was an intern at
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Free_University_of_Berlin&#34;&gt;Freie Universität&lt;/a&gt; in
+the great city of &lt;strong&gt;Berlin&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A couple of days ago I met a Sri Lankan man at the bus stand as it is my habit
+nowadays to speak to all people who look Indian. We got a bit chatty and we had
+a lively discussion, and the conversation quickly veered towards LTTE and Sri
+Lanka. This man a Tamil himself, he told me that his grandfather was a Chettiar
+from Tamil Nadu who had moved down to Sri Lanka to set up a business, surprised
+me by stating that he did not sympathize with the LTTE one bit. As the
+conversation began to get more and more intense he said that LTTE kidnapped kids
+and brainwashed them and trained them to wage the Elam’s war. It hit me that
+this was no different than Taliban or any other Muslim military outfit. He
+explained that the situation was grim back in Ceylon ( interestingly he reffered
+Sri Lanka as Ceylon always) and the LTTE used to kill people even Tamils who did
+not see eye to eye with their cause. He said that his family moved out of Sri
+Lanka in the 70s to Canada and Germany.&lt;/p&gt;
+
+&lt;p&gt;At this juncture I asked him what about Prabhakaran, he plainly said Prabhakaran
+has escaped with his close group of supporters and claims by the Lankan Army
+reports are nothing but propaganda. I pushed him a bit more on how can he be
+confident on the fact that Prabhakaran is alive, and he gave me a quick grin and
+said that he knew a lot of people in Lanka and no one believes he is dead, well
+I was surprised that Vellupillai Prabhakaran had such an indefatigable image in
+the minds of the people.&lt;/p&gt;
+
+&lt;p&gt;I asked him does he not sympathize with the Tamilians of Sri Lanka, and he said
+that the Tamils were big headed people (he himself was a tamil), who do not
+respect the other people. He gave me an example saying that in the small Sri
+Lankan community in Berlin, Tamils never spoke to any Non Tamils whereas the
+Singhalese (the other ethnic group of Sri Lanka) people spoke to everyone and
+were very accommodating. He himself while growing up in Sri Lanka had a lot of
+Singhalese friends and not many Tamil friends.&lt;/p&gt;
+
+&lt;p&gt;As the conversation headed towards India, and I explained to him saying that
+India is growing economy and a very vibrant place ( I have got used to doing
+this as the Europeans have a portrait of India as a very poor third world
+country where millions starve without food). He just slashed me down by saying
+in India the things are fast and fun, in the west (he referred to Europe) the
+things are slow but effective.&lt;/p&gt;
+
+&lt;p&gt;Our conversation got more and more lively but I had to get down at my bus stop
+and wished him good bye may be for ever, as I do not have his name or contact.&lt;/p&gt;
+
+&lt;p&gt;I was delighted to know a lot about my neighboring country what the people think
+there, how they feel about India. I got to know that you get a better picture of
+the nation by speaking to some one from there than from some news articles. I
+was surprised to meet a Sri Lankan who did not sympathize with the LTTE, who did
+not like the attitude of the Tamils, who thought Prabhakaran was a terrorist and
+is still alive.&lt;/p&gt;
+
+&lt;p&gt;I guess this is a post for me to remember this conversation.&lt;/p&gt;
+
+&lt;p&gt;Originally at &lt;a href=&#34;https://shekispeaks.wordpress.com/2009/05/24/a-conversation-to-remember/&#34;&gt;https://shekispeaks.wordpress.com/2009/05/24/a-conversation-to-remember/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Pixar touch.</title>
+      <link>http://sheki.in/post/pixar_touch/</link>
+      <pubDate>Sun, 15 Feb 2015 09:02:50 +0530</pubDate>
+      
+      <guid>http://sheki.in/post/pixar_touch/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/The-Pixar-Touch-David-Price/dp/0307278298&#34;&gt;The Pixar Touch&lt;/a&gt;
+is a well written, easy to read book. It traces the story of Pixar
+over 20 years. Some interesting things I learnt:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Employees who spend 8-12 years in the company did not make much in the IPO. Steve Jobs&amp;rsquo;
+share in the company was 80%. He took back Pixar employees RSU&amp;rsquo;s and gave them new options
+forcing them to stay on for 4 more years.  This means some employees worked 12
+years but got options worth four years. Steve Jobs was mean.&lt;/li&gt;
+&lt;li&gt;George Lucas was a generous investor. He gave people at
+Pixar around two years to find a buyer when it was a loss making operation.&lt;/li&gt;
+&lt;li&gt;Pixar hired a lot of talent at the top level after  it became famous. I wonder what the
+older employees thought of this.&lt;/li&gt;
+&lt;li&gt;Pixar sells the industry standard in animation software called RenderMan.&lt;/li&gt;
+&lt;li&gt;The founders were a patient bunch. They were in it for the long run -
+opposite of a serial entrepreneur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/OMZKhod.jpg&#34; alt=&#34;The Pixar Touch&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fortress of solitude</title>
+      <link>http://sheki.in/post/fortress_of_solitude/</link>
+      <pubDate>Mon, 09 Feb 2015 01:09:40 +0530</pubDate>
+      
+      <guid>http://sheki.in/post/fortress_of_solitude/</guid>
+      <description>&lt;p&gt;I just finished reading Fortress Of Solitude.&lt;/p&gt;
+
+&lt;p&gt;It is growing up story of white kid - Dylan up in a gentrifying
+neighborhood of Brooklyn. I picked up this book as I liked Michael Chabon&amp;rsquo;s
+&lt;strong&gt;The Amazing Adventures of Kavalier &amp;amp; Clay&lt;/strong&gt; and felt the books similar in themes.
+The author deals with a lot of social issues in a matter of
+factly way. This book has references to graffiti, music, comic books.
+There is a weird part with a ring with superpowers. I think the book would
+have been much better without it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/6/67/Fortresssolitudecvr.jpg&#34; alt=&#34;Fortress of solitude&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall it is a decent book, not a modern classic, a little long, a little too
+American in outlook.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The document databases.</title>
+      <link>http://sheki.in/post/document_databases/</link>
+      <pubDate>Sun, 25 Jan 2015 20:49:52 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/document_databases/</guid>
+      <description>
+
+&lt;p&gt;Document databases or schema-less databases are the first choice for building
+apps nowadays. &lt;a href=&#34;https://mongodb.com&#34;&gt;MongoDB&lt;/a&gt; is a very good
+example of a schema-less database if one is managing their own infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Every cloud service provider has a document database option available as a service.
+The advantage of these services are that you do not have to manage the instances
+and replications. Most of these are automated for you&lt;/p&gt;
+
+&lt;p&gt;I looked at a few of these services and compared them on a few usability parameters.
+The parameters are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Query Model&lt;/strong&gt; &amp;ndash; what sort of queries does it support - SQL and JSON are the two popular options.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Indexes&lt;/strong&gt; &amp;ndash; are secondary indexes supported,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Object sizes/Limits&lt;/strong&gt; The biggest object you can store in it, and other limits.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The databases options are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/services/documentdb/&#34;&gt;Azure DocumentDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/datastore/&#34;&gt;Google Cloud Datastore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://parse.com&#34;&gt;Parse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/dynamodb/&#34;&gt;Amazon Dynamo DB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interesting thing about these database services is that all of them are
+closed source and cannot be used independent of the cloud service.&lt;/p&gt;
+
+&lt;h2 id=&#34;azure-documentdb&#34;&gt;Azure DocumentDB&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Supports full json docmuents without any schema.&lt;/li&gt;
+&lt;li&gt;It has a powerful SQL based query model. &lt;a href=&#34;http://azure.microsoft.com/en-us/documentation/articles/documentdb-sql-query/&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You can manually add indexes to all fields.&lt;/li&gt;
+&lt;li&gt;Maximum object size is 256KB. Good description of limits &lt;a href=&#34;http://azure.microsoft.com/en-us/documentation/articles/azure-subscription-service-limits/#documentdblimits&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The service is in Beta and the total data size is limited to 10G if I understand the docs currently.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;google-cloud-datastore&#34;&gt;Google Cloud Datastore&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is practically schema less and you can add fields to without specifying it anywhere.&lt;/li&gt;
+&lt;li&gt;It has a custom JSON based query language or has an almost SQL like GQL interface.&lt;/li&gt;
+&lt;li&gt;Automatically adds indexes for all fields in an entity.&lt;/li&gt;
+&lt;li&gt;Developer has to define compound indexes (they call it a composite index).&lt;/li&gt;
+&lt;li&gt;Their developer tool kit claims to suggest indexes if it encounters a query without an index. This is a unique and neat feature.&lt;/li&gt;
+&lt;li&gt;Has been around for a while, from right when google app engine launched.&lt;/li&gt;
+&lt;li&gt;1MB max object size, it is the largest allowed. 20,000 indexes per collection/entity.&lt;/li&gt;
+&lt;li&gt;A hard to understand limit on compound index size &amp;ldquo;Maximum number of bytes in composite indexes for an entity&amp;rdquo;. I think this could be made a bit clearer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;parse&#34;&gt;Parse&lt;/h2&gt;
+
+&lt;p&gt;(Full disclosure =&amp;gt; at the time of writing I work at Parse.com)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is schema-less but you cannot change type once you add a member in a class/collection.&lt;/li&gt;
+&lt;li&gt;Custom JSON based query language.&lt;/li&gt;
+&lt;li&gt;Indexing as a concept is not exposed. There are systems in the background which create compound and simple indexes for you. I think this is a great feature and reduces and reduces cognitive load.&lt;/li&gt;
+&lt;li&gt;Supports about 300,000 apps, so it has been in production for a while.&lt;/li&gt;
+&lt;li&gt;The objects are limited to 128KB.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;amazon-dynamo&#34;&gt;Amazon Dynamo&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It requires defining a primary id field, apart from that it is schemaless.&lt;/li&gt;
+&lt;li&gt;It has complicated JSON based query language. Of all the stores this is the most complicated query model.&lt;/li&gt;
+&lt;li&gt;You can define global secondary indexes, but you have to define throughput limits while defining. This is pretty hard and complicated.&lt;/li&gt;
+&lt;li&gt;It limits you to 5 secondary indexes.&lt;/li&gt;
+&lt;li&gt;The object size cannot exceed 400KB.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think this space is going to get heated up with these new services maturing, third party solutions emerging to manage them and the limits easing up. Exciting times ahead.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elasticity of the Cloud.</title>
+      <link>http://sheki.in/post/cloud/</link>
+      <pubDate>Mon, 12 Jan 2015 20:04:51 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/cloud/</guid>
+      <description>&lt;p&gt;All cloud services have a page where they boast about their top users.
+A developer may believe that it is marketing and ignore it. That is a tad immature.&lt;/p&gt;
+
+&lt;p&gt;Time for a pithy one-liner :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The cloud is as big as its largest customer.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The reason is nobody builds infinitely scalable data-centers. Software runs on
+hardware, which has physical limits, sometimes limits like speed of light. And then
+there are business reasons.&lt;/p&gt;
+
+&lt;p&gt;Usually it is the largest customer who pushes their limits.&lt;/p&gt;
+
+&lt;p&gt;For example: Netflix runs on AWS, so you won&amp;rsquo;t likely run into problems running
+a video streaming app on AWS, as  Netflix would have already discovered those
+problems and AWS would have fixed on them.&lt;/p&gt;
+
+&lt;p&gt;It is symbiotic relationship, the big customer discovers flaws and good cloud providers
+fix them. So the next time you are deciding which cloud service to use, carefully look at their biggest
+customers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surathkal</title>
+      <link>http://sheki.in/post/surathkal/</link>
+      <pubDate>Wed, 31 Dec 2014 18:11:23 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/surathkal/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ravan&#34;&gt;Ravan&lt;/a&gt;, the king of Lanka and the
+main antagonist of the Hindu epic &lt;a href=&#34;http://en.wikipedia.org/wiki/Ramayana&#34;&gt;Ramayana&lt;/a&gt;
+was an ardent devotee of &lt;a href=&#34;http://en.wikipedia.org/wiki/Shiva&#34;&gt;Shiva&lt;/a&gt;.
+Sometime before the main events of Ramayana unfolded, Ravan prayed to Shiva
+and got hold of a powerful relic - &lt;em&gt;Atma Lingam&lt;/em&gt;. (demons
+praying to gods and getting powerful relics / boons is a recurring theme in
+Hindu mythology). Shiva though, places a condition, that Ravan has to carry the
+Atma Lingam, without putting it down on the ground, until he reaches home -
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Lanka&#34;&gt;Lanka&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The rest of the gods worry that Ravan would become immensely powerful and
+hard to defeat. The gods hatch a plan to ensure that Ravan puts the
+AtmaLingam on the ground before reaching Lanka. &lt;a href=&#34;htps://en.wikipedia.org/wiki/Ganesh&#34;&gt;Ganesh&lt;/a&gt;
+Shiva&amp;rsquo;s son - agrees to carry out the scheme.&lt;/p&gt;
+
+&lt;p&gt;As Ravan is passing by &lt;a href=&#34;http://en.wikipedia.org/wiki/Gokarna&#34;&gt;Gokarna&lt;/a&gt;, in
+modern day Karnataka, India - the gods hide the sun. Ravan believing that it is
+dusk, wants to prey as is his routine. Precisely at that point he is
+approached by Ganesh, disguised as a priest. Ravan asks the priest to hold
+the AtmaLingam while he prays for a bit. Ganesh, agrees albeit with a condition
+that he will call his name three times, if Ravan does not respond, he will place
+the AtmaLingam on the ground. Ravan agrees and proceeds to pray. Ganesh
+places the AtmaLingam on the ground, without calling out thrice. He basically
+cheats.&lt;/p&gt;
+
+&lt;p&gt;The relic now on the ground cannot be moved. Ravan is devastated and tries to
+lift the AtmaLingam, but it won&amp;rsquo;t budge.
+His force breaks a piece of the head of the Lingam. This piece falls a few
+hundred kilometers southwards.
+The place where the stone falls is called Sirathkal
+(meaning head stone) in the local Tulu language.
+Ravan obviously goes back home dejected.&lt;/p&gt;
+
+&lt;p&gt;In modern times Sirathkal is known as Surathkal, a suburb of
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Mangalore&#34;&gt;Mangalore&lt;/a&gt;. I spent four years
+studying Computer Engineering there at
+&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Karnataka&#34;&gt;NITK Surathkal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am curious about how places get their names, this was the story of Surathkal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/1467558/surathkal.jpg&#34; alt=&#34;Surathkal&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Auto deploy your Hugo blog to Parse</title>
+      <link>http://sheki.in/post/autodeploy-hugo/</link>
+      <pubDate>Tue, 23 Dec 2014 18:11:23 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/autodeploy-hugo/</guid>
+      <description>&lt;p&gt;I am very impressed by the current state of static website hosting tools.&lt;/p&gt;
+
+&lt;p&gt;Right now, I host this blog on &lt;a href=&#34;http://parse.com&#34;&gt;Parse.com&lt;/a&gt; using
+Parse hosting (disclaimer - I work for Parse). I use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
+as my static website engine. Hugo is blazingly fast and simple to understand.
+This time around I wanted my blog to be deployed automatically when I push
+to Github.&lt;/p&gt;
+
+&lt;p&gt;I used &lt;a href=&#34;https://Travis-ci.org/&#34;&gt;Travis-ci&lt;/a&gt; for this. Travis is amazing and
+deserves a shout out for making their software so usable and customizable.&lt;/p&gt;
+
+&lt;p&gt;It was not all plug and play, Parse.com does not have a deploy API to push
+files and hence is not a deploy target on Travis.
+The only way to deploy your site to Parse is via the cli. The issue is
+Parse-cli requires you to type in your password - not possible in Travis, a
+headless system.&lt;/p&gt;
+
+&lt;p&gt;So looking into the parse app, it has the following structure:
+&lt;script src=&#34;https://gist.github.com/sheki/70cf1db36c19e4db20cf.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;I added &lt;strong&gt;public&lt;/strong&gt; and &lt;strong&gt;config&lt;/strong&gt; to the gitignore so that they are never
+checked
+into the repository. Looking under the config directory, it has a JSON file with
+the parse app-id and master key.
+It looks like
+&lt;script src=&#34;https://gist.github.com/sheki/47b80580830ef42f51bd.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;I did not want to check in my actual &lt;strong&gt;app-id&lt;/strong&gt; and &lt;strong&gt;master key&lt;/strong&gt; to Github.
+Luckily Travis had a solution for that. I set two secure environment variables
+to the app-id and master-key using the
+&lt;a href=&#34;http://docs.travis-ci.com/user/encryption-keys/&#34;&gt;encryption mechanism&lt;/a&gt;
+provided by Travis.&lt;/p&gt;
+
+&lt;p&gt;I wrote a small go program to output the valid &lt;strong&gt;config.json&lt;/strong&gt;
+using these environment keys. This allowed me to secure my config keys in
+Github but make them available in Travis.&lt;/p&gt;
+
+&lt;p&gt;The go program looks like
+&lt;script src=&#34;https://gist.github.com/sheki/62ca054981cd1457437f.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;The build script calls this program to generate the config and deploy the
+generated site to Parse.&lt;/p&gt;
+
+&lt;p&gt;The complete build script is
+&lt;script src=&#34;https://gist.github.com/sheki/91c6cfab5d9cfc48d2ef.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;The whole working project is &lt;a href=&#34;https://github.com/sheki/parse-blog&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Using these bits and pieces of the cloud I have a blog system,
+where I commit to github and it gets immediately deployed and hosted.&lt;/p&gt;
+
+&lt;p&gt;Note that you can use a similar approach to deploy your parse CloudCode to Parse
+with just a github push.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://sheki.in/post/first/</link>
+      <pubDate>Tue, 23 Dec 2014 16:03:59 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/first/</guid>
+      <description>&lt;p&gt;Hello world.&lt;/p&gt;
+
+&lt;p&gt;I am Abhishek Kona, also known as Sheki. I currently live in
+San Francisco. I work as an engineer at &lt;a href=&#34;https://parse.com&#34;&gt;Parse.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The day of writing this is 23 December, 2014. Coincidentally today is
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Festivus&#34;&gt;Festivus - the Festival for the rest of us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Happy Festivus&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am on a new-year inspired self improvement drive and want to write one blog a
+week. I am inspired by &lt;a href=&#34;http://iron-blogger-sf.com/the-rules/&#34;&gt;Iron Blogger&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Brace yourself.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

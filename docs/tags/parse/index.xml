@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parse on shekispeaks</title>
+    <link>http://sheki.in/tags/parse/index.xml</link>
+    <description>Recent content in Parse on shekispeaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://sheki.in/tags/parse/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Auto deploy your Hugo blog to Parse</title>
+      <link>http://sheki.in/post/autodeploy-hugo/</link>
+      <pubDate>Tue, 23 Dec 2014 18:11:23 -0800</pubDate>
+      
+      <guid>http://sheki.in/post/autodeploy-hugo/</guid>
+      <description>&lt;p&gt;I am very impressed by the current state of static website hosting tools.&lt;/p&gt;
+
+&lt;p&gt;Right now, I host this blog on &lt;a href=&#34;http://parse.com&#34;&gt;Parse.com&lt;/a&gt; using
+Parse hosting (disclaimer - I work for Parse). I use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
+as my static website engine. Hugo is blazingly fast and simple to understand.
+This time around I wanted my blog to be deployed automatically when I push
+to Github.&lt;/p&gt;
+
+&lt;p&gt;I used &lt;a href=&#34;https://Travis-ci.org/&#34;&gt;Travis-ci&lt;/a&gt; for this. Travis is amazing and
+deserves a shout out for making their software so usable and customizable.&lt;/p&gt;
+
+&lt;p&gt;It was not all plug and play, Parse.com does not have a deploy API to push
+files and hence is not a deploy target on Travis.
+The only way to deploy your site to Parse is via the cli. The issue is
+Parse-cli requires you to type in your password - not possible in Travis, a
+headless system.&lt;/p&gt;
+
+&lt;p&gt;So looking into the parse app, it has the following structure:
+&lt;script src=&#34;https://gist.github.com/sheki/70cf1db36c19e4db20cf.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;I added &lt;strong&gt;public&lt;/strong&gt; and &lt;strong&gt;config&lt;/strong&gt; to the gitignore so that they are never
+checked
+into the repository. Looking under the config directory, it has a JSON file with
+the parse app-id and master key.
+It looks like
+&lt;script src=&#34;https://gist.github.com/sheki/47b80580830ef42f51bd.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;I did not want to check in my actual &lt;strong&gt;app-id&lt;/strong&gt; and &lt;strong&gt;master key&lt;/strong&gt; to Github.
+Luckily Travis had a solution for that. I set two secure environment variables
+to the app-id and master-key using the
+&lt;a href=&#34;http://docs.travis-ci.com/user/encryption-keys/&#34;&gt;encryption mechanism&lt;/a&gt;
+provided by Travis.&lt;/p&gt;
+
+&lt;p&gt;I wrote a small go program to output the valid &lt;strong&gt;config.json&lt;/strong&gt;
+using these environment keys. This allowed me to secure my config keys in
+Github but make them available in Travis.&lt;/p&gt;
+
+&lt;p&gt;The go program looks like
+&lt;script src=&#34;https://gist.github.com/sheki/62ca054981cd1457437f.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;The build script calls this program to generate the config and deploy the
+generated site to Parse.&lt;/p&gt;
+
+&lt;p&gt;The complete build script is
+&lt;script src=&#34;https://gist.github.com/sheki/91c6cfab5d9cfc48d2ef.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;The whole working project is &lt;a href=&#34;https://github.com/sheki/parse-blog&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Using these bits and pieces of the cloud I have a blog system,
+where I commit to github and it gets immediately deployed and hosted.&lt;/p&gt;
+
+&lt;p&gt;Note that you can use a similar approach to deploy your parse CloudCode to Parse
+with just a github push.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

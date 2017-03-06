@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A layout example that shows off a blog page with a list of posts.">
+
+    <title>Parse &middot; shekispeaks</title>
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+    <link rel="stylesheet" href="/css/blog.css">
+    <link href='//fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-57978691-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="http://sheki.in/">shekispeaks</a></h1>
+            <h2 class="brand-tagline"></h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item">
+                    <a class="pure-button" href="http://twitter.com/sheki"><i class="fa fa-twitter"></i> Twitter</a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href="http://github.com/sheki"><i class="fa fa-github-alt"></i> Github</a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href="/index.xml"><i class="fa fa-rss"></i>RSS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href="/talks"><i class="fa fa-bullhorn"></i>Talks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href="/random"><i class="fa fa-random"></i>Random</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">23 Dec 2014, 18:11</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="http://sheki.in/post/autodeploy-hugo/" class="post-title">Auto deploy your Hugo blog to Parse</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>I am very impressed by the current state of static website hosting tools.</p>
+
+<p>Right now, I host this blog on <a href="http://parse.com">Parse.com</a> using
+Parse hosting (disclaimer - I work for Parse). I use <a href="http://gohugo.io/">Hugo</a>
+as my static website engine. Hugo is blazingly fast and simple to understand.
+This time around I wanted my blog to be deployed automatically when I push
+to Github.</p>
+
+<p>I used <a href="https://Travis-ci.org/">Travis-ci</a> for this. Travis is amazing and
+deserves a shout out for making their software so usable and customizable.</p>
+
+<p>It was not all plug and play, Parse.com does not have a deploy API to push
+files and hence is not a deploy target on Travis.
+The only way to deploy your site to Parse is via the cli. The issue is
+Parse-cli requires you to type in your password - not possible in Travis, a
+headless system.</p>
+
+<p>So looking into the parse app, it has the following structure:
+<script src="https://gist.github.com/sheki/70cf1db36c19e4db20cf.js"></script></p>
+
+<p>I added <strong>public</strong> and <strong>config</strong> to the gitignore so that they are never
+checked
+into the repository. Looking under the config directory, it has a JSON file with
+the parse app-id and master key.
+It looks like
+<script src="https://gist.github.com/sheki/47b80580830ef42f51bd.js"></script></p>
+
+<p>I did not want to check in my actual <strong>app-id</strong> and <strong>master key</strong> to Github.
+Luckily Travis had a solution for that. I set two secure environment variables
+to the app-id and master-key using the
+<a href="http://docs.travis-ci.com/user/encryption-keys/">encryption mechanism</a>
+provided by Travis.</p>
+
+<p>I wrote a small go program to output the valid <strong>config.json</strong>
+using these environment keys. This allowed me to secure my config keys in
+Github but make them available in Travis.</p>
+
+<p>The go program looks like
+<script src="https://gist.github.com/sheki/62ca054981cd1457437f.js"></script></p>
+
+<p>The build script calls this program to generate the config and deploy the
+generated site to Parse.</p>
+
+<p>The complete build script is
+<script src="https://gist.github.com/sheki/91c6cfab5d9cfc48d2ef.js"></script></p>
+
+<p>The whole working project is <a href="https://github.com/sheki/parse-blog">here</a>.</p>
+
+<p>Using these bits and pieces of the cloud I have a blog system,
+where I commit to github and it gets immediately deployed and hosted.</p>
+
+<p>Note that you can use a similar approach to deploy your parse CloudCode to Parse
+with just a github push.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+    Powered by <a class="hugo" href="http://hugo.spf13.com/" target="_blank">hugo</a>.
+    Website built on 5 Mar, 2017 at 9:36pm (PST)
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+</body>
+</html>
