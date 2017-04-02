@@ -2,7 +2,7 @@ baseurl = "http://sheki.in/"
 languageCode = "en-us"
 title = "shekispeaks"
 theme = "purehugo"
-publishDir = "docs"
+publishDir = "public"
 [indexes]
   category = "categories"
   tag = "tags"
