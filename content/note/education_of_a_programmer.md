@@ -8,6 +8,7 @@ date = "2017-04-13T16:40:03-07:00"
 +++
 
 https://hackernoon.com/education-of-a-programmer-aaecf2d35312
+
 > I was at Beyond Software when I really internalized the importance of having a
 > singular leader over a project. The engineering manager departed (later to hire
 > me away for FrontPage) and all four of the leads were hesitant to step into the
