@@ -1,6 +1,6 @@
 +++
 date = "2017-03-24T15:44:52-07:00"
-title = "nyc_builds_for_science"
+title = "NYC Builds for science"
 Categories = []
 Tags = ["New York"]
 Description = ""
