@@ -2,7 +2,7 @@
 Tags = ["parking", "cities"]
 Description = ""
 date = "2017-04-13T16:29:09-07:00"
-title = "Parking is Free
+title = "Parking is Free"
 Categories = []
 
 +++
