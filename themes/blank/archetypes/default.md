@@ -1,4 +1,5 @@
 +++
 title = ""
-date = ""
+Tags = []
+date = {{ .Date }}
 +++
