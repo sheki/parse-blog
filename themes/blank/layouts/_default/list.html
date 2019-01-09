@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+	<main>
+    <ul>
+    {{ range sort .Data.Pages "Title"  }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+		{{ end }}
+    </ul>
+		{{ partial "pagination.html" . }}
+	</main>
+{{ partial "sidebar.html" . }}
+{{ partial "footer.html" . }}

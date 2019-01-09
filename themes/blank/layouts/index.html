@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+	<main style="max-width: 500px; word-wrap: break-word; margin: 15px;">
+		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+		{{ range $paginator.Pages }}
+			{{ partial "summary.html" . }}
+		{{ end }}
+	</main>
+{{ partial "sidebar.html" . }}
+{{ partial "footer.html" . }}
