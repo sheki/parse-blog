@@ -8,28 +8,59 @@ title = "books"
 Books
 -----
 
-* City of Fire By Garth Risk Hallberg New York Punk Mystery
-* Non Violent Communication
-* The visual display of quantitative information
-* Road to charecter - book about being a founder
-* the collapse the accidental opening of the berlin wall
-* The Yid: A Novel by Paul Goldberg (Picador) Russia Holocaust funny
-* Don't make me think
-* Value proposition design [link](http://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050/)
-* Should we eat meat - vaclav smith - Bill Gates recommended.
-* Stress Test: Reflections on Financial Crises - Bill Gates
-* The Rosie Project: A Novel
-* Sapiens
-* How to Castrate a Bull: Unexpected Lessons on Risk, Growth, and Success in Business Hardcover
-* Alexander Hamilton [link](https://www.goodreads.com/book/show/16130.Alexander_Hamilton?ac=1&from_search=true)
-* How will you measure your life [link](https://www.goodreads.com/book/show/13425570-how-will-you-measure-your-life)
-* Ogilvy on Advertising
-* Find Me Unafraid: Love, Loss, and Hope in an African Slum (YC Summer List)
-* Hadrians Wall - hardcore history
-* Intelligent Investor - basics of investing ?
-* No Logo [link](https://www.amazon.com/No-Logo-Anniversary-Introduction-Author/dp/0312429274)
-* The Revolutionaries Try Again
-* Ethics in the Real World: 82 Brief Essays on Things That Matter
-* The Debt to Pleasure (mark bittman recommended)
-* Growth Hacker Marketing https://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising/dp/1591847389
-* The Years with Laura Diaz
+
+* ost in Math: How Beauty Leads Physics Astray
+* https://www.amazon.com/Invention-Science-History-Scientific-Revolution/dp/0061759538
+* Hard Landing: The Epic Contest for Power and Profits That Plunged the Airlines into Chaos Paperback – December 24, 1996
+* wilderness tips Margret Atwood
+* Value of everything
+* How Learning Works
+* In The Midst of Winter (Isabelle Allende)
+* Questioning minds
+* Noir by Christopher moore
+* Beyond Weird
+* RocketMen
+* Red Plenty book
+* Your fourth choice goes back to statistics with a classic of the field: An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. Tell us about it.
+* The Beginning of Infinity - De
+* Final diagnosis Arthur hailey
+* The idiot by Dostoevsky
+* Half Wind
+* https://www.amazon.com/How-Be-Everything-Guide-Those/dp/0062566652
+* Aristotle’s Way by Edith Hall
+* The Perils of Perception: Why We’re Wrong About Nearly Everything.
+* Coromandel: A Personal History of South India Hardcover – 6 Dec 2017
+* The Euro - David Marsh
+* Seven days of us
+* https://www.amazon.com/Farsighted-Make-Decisions-That-Matter/dp/1594488215
+* RocketMen
+* Border: A Journey to the Edge of Europe https://www.amazon.com/dp/1555977863?tag=fivboo-20
+* Exact Thinking in Demented Times* by Karl Sigmund*
+* Midlife a philosophical guide Keiran Setiya
+* https://www.amazon.com/dp/0312361750
+* Messages - communication book
+* Straight Talk on Trade
+* Meaning of Beleif
+* Me myself and us Brian little
+* The Other One Percent [link (https://www.amazon.com/Other-One-Percent-Indians-America/dp/0190648740/ref=sr_1_1?ie=UTF8&qid=1477452144&sr=8-1&keywords=The+Other+One+Percent)]
+* the Republic of Beliefs* by Kaushik Basu*
+* Coddling of the american mind
+* https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader
+* The Last Wilderness: A Journey Into Silence
+* Bartleby & Co.
+* Time Dorks
+* The Living Mountain: A Celebration of the Cairngorm Mountains of Scotland (Canons)Paperback
+* – 10 Apr 2014 Steve pinker latest book
+* Economic Fables Paperback – April 20, 2012
+* Thinking Strategically - the competitive edge in business in politics and everyday life
+* https://www.amazon (https://www.amazon/) (https://www.amazon/) (https://www.amazon/) (https://www.amazon/) (https://www.amazon/) (https://www.amaz (https://www.amaz/) (https://www.amaz/) (https://www.amaz/) (https://www.amaz/) (https://www.amaz/)/).com/Elderly-Lady-Up-No-Good/dp/1641290110 Games and Decisions: Introduction and Critical Survey (Dover Books on Mathematics)
+* Out of china
+* The Immortalists
+* I found my tribe
+* Why Buddhism is true
+* Heirs of the Founders: The Epic Rivalry of Henry Clay, John Calhoun and Daniel Webster, the Second Generation of American Giants (Hardcover)
+* Fragrant Harbor
+* Why Buddhism is true
+* Artist's Way: A Course in Discovering and Recovering Your Creative Self [link](https://www.amazon.com/dp/0330343580/ref=as_at?tag=fivebooks001-20)
+* Decision Book
+ How to Not Always Be Working by Marlee Grace
