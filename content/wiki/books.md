@@ -8,8 +8,6 @@ title = "books"
 Books
 -----
 
-
-* ost in Math: How Beauty Leads Physics Astray
 * https://www.amazon.com/Invention-Science-History-Scientific-Revolution/dp/0061759538
 * Hard Landing: The Epic Contest for Power and Profits That Plunged the Airlines into Chaos Paperback – December 24, 1996
 * wilderness tips Margret Atwood
@@ -29,9 +27,7 @@ Books
 * https://www.amazon.com/How-Be-Everything-Guide-Those/dp/0062566652
 * Aristotle’s Way by Edith Hall
 * The Perils of Perception: Why We’re Wrong About Nearly Everything.
-* Coromandel: A Personal History of South India Hardcover – 6 Dec 2017
 * The Euro - David Marsh
-* Seven days of us
 * https://www.amazon.com/Farsighted-Make-Decisions-That-Matter/dp/1594488215
 * RocketMen
 * Border: A Journey to the Edge of Europe https://www.amazon.com/dp/1555977863?tag=fivboo-20
@@ -59,8 +55,7 @@ Books
 * I found my tribe
 * Why Buddhism is true
 * Heirs of the Founders: The Epic Rivalry of Henry Clay, John Calhoun and Daniel Webster, the Second Generation of American Giants (Hardcover)
-* Fragrant Harbor
 * Why Buddhism is true
 * Artist's Way: A Course in Discovering and Recovering Your Creative Self [link](https://www.amazon.com/dp/0330343580/ref=as_at?tag=fivebooks001-20)
 * Decision Book
- How to Not Always Be Working by Marlee Grace
+* How to Not Always Be Working by Marlee Grace
