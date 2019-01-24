@@ -1,4 +1,4 @@
-baseurl = "http://sheki.in/"
+baseurl = "https://sheki.in/"
 languageCode = "en-us"
 title = "shekispeaks"
 theme = "blank"
