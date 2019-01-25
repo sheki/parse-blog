@@ -1,7 +1,7 @@
 +++
 date = "2016-03-14T15:16:01-07:00"
 draft = false
-title = "books"
+title = "Books"
 
 +++
 
@@ -59,3 +59,4 @@ Books
 * Artist's Way: A Course in Discovering and Recovering Your Creative Self [link](https://www.amazon.com/dp/0330343580/ref=as_at?tag=fivebooks001-20)
 * Decision Book
 * How to Not Always Be Working by Marlee Grace
+* The African Shore (The Margellos World Republic of Letters) Paperback – October 22, 2013
