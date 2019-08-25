@@ -7,14 +7,17 @@
 	<title>{{ .Title }}</title>
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-  <link href="https://fonts.googleapis.com/css?family=B612" rel="stylesheet">
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+  <link href="https://fonts.googleapis.com/css?family=B612" rel="stylesheet">
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 	{{ .Hugo.Generator }}
 </head>
 <body>
 	<header>
-		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    <div class="horizontal">
+		<a class="item" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    <a class="item" href="{{ .Site.BaseURL }}about">about</a>
+    </div>
 		<nav>
 			<ul>
 				{{ range .Site.Menus.main }}

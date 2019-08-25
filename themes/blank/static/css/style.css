@@ -1,3 +1,13 @@
 body {
   font-family: 'B612', sans-serif;
 }
+
+.item {
+  margin-right: 25px;
+}
+
+.horizontal {
+  display: flex;
+  flex-direction: row;
+}
+

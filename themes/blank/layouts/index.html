@@ -1,9 +1,14 @@
 {{ partial "header.html" . }}
 	<main style="max-width: 500px; word-wrap: break-word; margin: 15px;">
-		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+    {{ $paginator := .Paginate (where .Site.Pages "Type" "post") 50}}<div>
+			{{ .Summary }}
+			{{ if .Truncated }}
+				<a href="{{ .Permalink }}">Read more...</a>
+			{{ end }}
+		</div>
 		{{ range $paginator.Pages }}
 			{{ partial "summary.html" . }}
 		{{ end }}
+    {{ template "_internal/pagination.html" . }}
 	</main>
-{{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
