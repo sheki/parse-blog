@@ -45,6 +45,10 @@ the last of the generation on non christian Roman emperors. People still live
 in the old city. It was hair tickling to walk on streets built in the 3rd century.
 
 
+Krka waterfalls was overrated and perhaps could be skipped for any other
+beach town.
+
+
 ## Food
 
 Croatia has a lot of sea food. I had great Calamari everywhere. They have
