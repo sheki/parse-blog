@@ -44,7 +44,7 @@ an island in Greece, but Croatia apparently is cheaper.
 
 
 The city of Split, was a Roman city and then a Venetian city. Unlike Zagreb
-it was never really a Austro-Hungarian city. The Roman emperor Diocletian, was
+it was never really a Austro-Hungarian city. The Roman emperor Diocletian from Split, was
 the last of the generation on non christian Roman emperors. People still live
 in the old city. It was hair tickling to walk on streets built in the 3rd century.
 
