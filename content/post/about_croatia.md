@@ -32,6 +32,9 @@ good part of his success to the blood-curdling threats uttered by the Yugoslav
 partisan who manned the loud speaker.
 
 
+I highly recommend renting a scooter and driving to different beaches on Viz.
+
+
 The movie Mama Mia was shot on the Island of Viz. In the movie it is shown to be
 an island in Greece, but Croatia apparently is cheaper.
 
