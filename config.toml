@@ -1,7 +1,7 @@
 baseurl = "https://sheki.in/"
 languageCode = "en-us"
 title = "shekispeaks"
-theme = "blank"
+theme = ["hugo-cloak-email", "blank"]
 publishDir = "public"
 [indexes]
   category = "categories"
