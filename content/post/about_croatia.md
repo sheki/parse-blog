@@ -25,7 +25,11 @@ village. A lot of Komiza people escaped to the US during the World War.
 They settled in San Pedro in California, as fisherman.
 
 
-We saw a church called "Our Lady of the Pirates". I am not sure if something was
+We saw a church called "Our Lady of the Pirates".
+{{< instagram B2EQVargaUn >}}
+
+
+I am not sure if something was
 lost in translation. Surprisingly during WWII,a remarkable Canadian captain supplied
 the Yugoslav partisans by pirating German supply ships.  The captain attributed a
 good part of his success to the blood-curdling threats uttered by the Yugoslav
@@ -62,3 +66,8 @@ a speciality of the districts further away from the sea.
 
 
 Konobo Robinson in Viz was my favorite restaurant of the trip.
+
+
+{{< instagram  B2B7AivgbXA >}}
+
+
