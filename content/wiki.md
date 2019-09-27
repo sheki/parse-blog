@@ -9,13 +9,7 @@ My wiki home page.
 
 Index
 -----
-* [Podcasts](/wiki/podcasts)
-* [Links](/wiki/links)
-* [Ideas](/wiki/ideas)
 * [React](/wiki/react)
-* [Books](https://sheki.quip.com/RkoIAlGZObf9)
-* [Cooking](/wiki/cooking)
-* [Programming Macros](/wiki/programming-macros)
 * [Mexico City](/wiki/mexico-city)
 * [San Francisco](/wiki/san-francisco)
 * [Oakland](/wiki/oakland)
