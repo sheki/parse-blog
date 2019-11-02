@@ -7,11 +7,12 @@
 				{{ .Content }}
 			</div>
 			<div>
-				<ul id="tags">
+				<h4>Filed under</h4>
+				<div class="horizontal">
 					{{ range .Params.tags }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+					<a class="item" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 					{{ end }}
-				</ul>
+				</div>
 			</div>
 			<div>
 				{{ template "_internal/disqus.html" . }}
