@@ -1,6 +1,6 @@
 +++
-title = "How to read a  book"
-Tags = ["practical", "books", "self help"]
+title = "Book notes: How to read a book"
+Tags = ["practical", "book", "self help"]
 date = 2019-11-02T12:45:14-07:00
 +++
 

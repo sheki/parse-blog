@@ -1,5 +1,5 @@
 +++
-title = "Findings - book notes"
+title = "Book notes: Findings"
 Tags = ["book"]
 date = 2019-11-06T18:50:22-08:00
 +++
