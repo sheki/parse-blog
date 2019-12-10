@@ -4,6 +4,7 @@ Tags = []
 date = 2019-12-09T20:47:40-08:00
 +++
 
+* Savage Gods - . It’s about moving to a smallholding in Ireland with his family in search of a more contented life, getting back to the land. But it hasn’t quite worked out that way.
 * Jerks and other Philosophical Misadventures
 * Days of abandonment - italian epic novel modern
 * Out of China: How the Chinese Ended the Era of Western Domination 
