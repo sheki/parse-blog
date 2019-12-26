@@ -7,10 +7,10 @@
 				{{ .Content }}
 			</div>
 			<div>
-				<h4>Filed under</h4>
+				<b>Filed under</b>
 				<div class="horizontal">
 					{{ range .Params.tags }}
-					<a class="item" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+					<a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 					{{ end }}
 				</div>
 			</div>

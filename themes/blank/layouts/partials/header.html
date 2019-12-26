@@ -8,16 +8,22 @@
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
-  <link href="https://fonts.googleapis.com/css?family=B612" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Inria+Serif&display=swap" rel="stylesheet">
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 	{{ .Hugo.Generator }}
 </head>
 <body>
 	<header>
-    <div class="horizontal">
-		<a class="item" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-    <a class="item" href="{{ .Site.BaseURL }}about">about</a>
-    </div>
+	<div class="header">
+		<div class="whoop">
+		<span class="titlecase"><h2>{{ .Site.Title }}</h2></span>
+		<span>Personal blog of Abhishek Kona</span>
+		<div class="links">
+                  <a class="item" href="{{ .Site.BaseURL }}about">About</a>
+		  <a class="item" href="{{ .Site.BaseURL }}post">Posts</a>
+		  <a class="item" href="{{ .Site.BaseURL }}post">Notes</a>
+		</div>
+	</div>
 		<nav>
 			<ul>
 				{{ range .Site.Menus.main }}

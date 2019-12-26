@@ -1,12 +1,41 @@
 body {
-  font-family: 'B612', sans-serif;
+  font-family: 'Inria Serif', serif;
 }
 
 .item {
-  margin-right: 25px;
+  margin-right: 10px;
+}
+
+.tag {
+  margin-right: 10px;
 }
 
 .horizontal {
   display: flex;
   flex-direction: row;
+}
+
+.header {
+  height: 200px;
+  background-color: #832232;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+a.item:link { color: white;  }
+a.item:visited { color: white; }
+a.item:hover { color: white; }
+a.item:active { color: white; }
+
+.links {
+  margin-top: 10px;
+}
+
+.whoop {
+  margin-left: 5%;
+}
+
+.titlecase {
+  text-transform: capitalize;
 }

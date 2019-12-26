@@ -1,6 +1,6 @@
 +++
 date = "2014-12-22T16:02:43-08:00"
-title = "about"
+title = "About"
 
 +++
 My name is Abhishek, Kona. I work as a software engineer at Slack.com. I live
