@@ -39,3 +39,7 @@ a.item:active { color: white; }
 .titlecase {
   text-transform: capitalize;
 }
+
+.article {
+  margin-left: 1in;
+}
