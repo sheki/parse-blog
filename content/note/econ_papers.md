@@ -33,3 +33,24 @@ impact on employee engagement. **
 > of interpersonal collaboration actually has the greatest impact on employee
 > engagement.2 In this article, we’ll explore why collaboration has that effect
 > and which behaviors you can adopt and practice to nurture it. 
+
+
+## Capital makes more money
+
+Rich people get richer thanks to the capital they already own.
+
+> Do wealthier households save a larger share of their incomes than poorer ones?
+> We use Norwegian administrative panel data on income and wealth to answer this
+> empirical question. The relation between saving rates and wealth crucially
+> depends on whether saving includes capital gains. Saving rates net of capital
+> gains ("net saving rates") are approximately constant across the wealth
+> distribution. However, saving rates including capital gains ("gross saving
+> rates") increase markedly with wealth. The proximate explanation is that
+> wealthier households own assets that experience persistent capital gains which
+> they hold onto instead of selling them off to consume ("saving by holding").
+> These joint patterns for net and gross saving rates challenge canonical models
+> of household wealth accumulation. They are instead consistent with theories in
+> which time-varying discount rates or portfolio adjustment frictions keep
+> households from realizing capital gains. Between 1995 and 2015 Norway's
+> aggregate wealth-to-income ratio rose from approximately 4 to 7. "Saving by
+> holding" accounts for up to 80 percent of this increase.
