@@ -4,17 +4,13 @@ Tags = []
 date = 2019-12-09T20:47:40-08:00
 +++
 
-* Savage Gods - . It’s about moving to a smallholding in Ireland with his family in search of a more contented life, getting back to the land. But it hasn’t quite worked out that way.
-* Jerks and other Philosophical Misadventures
 * Days of abandonment - italian epic novel modern
 * Out of China: How the Chinese Ended the Era of Western Domination 
 * The Choice: A Fable of Free Trade and Protection (3rd Edition) 
 * Becoming a Technical Leader: An Organic Problem-Solving Approach
 * Extreme economies
-* The snow leaopard project
 * The Brief Wondrous Life of Oscar Wao - Dominican Man moves to Harlem
 * Aerlin Alexanderplatz by Alfred Döblin - Golden Age of Berlin
-* Inside The Whale And Other Essays by George Orwell
 * White Noise - Post Modern novel
 * Wonder Boys Chabon
 * In Cold Blood truman capote
@@ -38,14 +34,20 @@ date = 2019-12-09T20:47:40-08:00
 * How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow Up
 * I Found My Tribe: A Memoir
 * In The Midst of Winter (Isabelle Allende)
-* The Euro - David Marsh
 * Quantum Computing from the ground up
 * Thinking Strategically - the competitive edge in business in politics and everyday life
+
+
+# Nature writing
+* Deep Creek (Paperback)
+* The snow leaopard project
+* Savage Gods - . It’s about moving to a smallholding in Ireland with his family in search of a more contented life, getting back to the land. But it hasn’t quite worked out that way.
 
 # Essays
 * 97,196 Words: Essays – by Emmanuel Carrère
 * The Dolphin Letters
 * NOBODY’S LOOKING AT YOU: ESSAYS by Janet Malcolm
+* Inside The Whale And Other Essays by George Orwell
 
 # Philosophy
 * The Sickness Unto Death - Book by Søren Kierkegaard Philosophy
@@ -54,3 +56,4 @@ date = 2019-12-09T20:47:40-08:00
 * The Origin Of Consciousness In The Breakdown Of The Bicameral Mind by Julian Jaynes
 * The Source Of Self-Regard: Selected Essays, Speeches, And Meditations
 * The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers, Seventh Edition - TLDR Economics
+* Jerks and other Philosophical Misadventures
