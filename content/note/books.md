@@ -41,7 +41,11 @@ date = 2019-12-09T20:47:40-08:00
 * The Euro - David Marsh
 * Quantum Computing from the ground up
 * Thinking Strategically - the competitive edge in business in politics and everyday life
+
+# Essays
 * 97,196 Words: Essays – by Emmanuel Carrère
+* The Dolphin Letters
+* NOBODY’S LOOKING AT YOU: ESSAYS by Janet Malcolm
 
 # Philosophy
 * The Sickness Unto Death - Book by Søren Kierkegaard Philosophy
