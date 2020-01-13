@@ -56,3 +56,5 @@ date = 2019-12-09T20:47:40-08:00
 * The Source Of Self-Regard: Selected Essays, Speeches, And Meditations
 * The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers, Seventh Edition - TLDR Economics
 * Jerks and other Philosophical Misadventures
+* Edith hall Aristotle
+* How to be a Stoic 
