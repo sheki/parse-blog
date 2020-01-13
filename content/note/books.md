@@ -4,16 +4,11 @@ Tags = []
 date = 2019-12-09T20:47:40-08:00
 +++
 
-* Days of abandonment - italian epic novel modern
 * Out of China: How the Chinese Ended the Era of Western Domination 
 * The Choice: A Fable of Free Trade and Protection (3rd Edition) 
 * Becoming a Technical Leader: An Organic Problem-Solving Approach
 * Extreme economies
-* The Brief Wondrous Life of Oscar Wao - Dominican Man moves to Harlem
 * Aerlin Alexanderplatz by Alfred Döblin - Golden Age of Berlin
-* White Noise - Post Modern novel
-* Wonder Boys Chabon
-* In Cold Blood truman capote
 * How Learning Works
 * The Beginning of Infinity - Quantum Physics
 * Ideas in Food: Great Recipes and Why They Work: A Cookbook
@@ -21,7 +16,6 @@ date = 2019-12-09T20:47:40-08:00
 * The Book of Disquiet (Penguin Classics) Paperback  - Great portugese book
 * The Invention of Science: A New History of the Scientific Revolution Reprint Edition
 * As I Walked Out One Midsummer Morning - travel book set in 1930s
-* Heirs of the Founders: The Epic Rivalry of Henry Clay, John Calhoun and Daniel Webster, the Second Generation of American Giants Hardcover – November 13, 2018
 * The True Believer: Thoughts on the Nature of Mass Movements (Perennial Classics) Paperback – January 19, 2010
 * The Value of Everything: Making and Taking in the Global Economy - Critique of how the economy is not working.
 * Farsighted: How We Make the Decisions That Matter the Most
@@ -33,10 +27,15 @@ date = 2019-12-09T20:47:40-08:00
 * The Last Wilderness, A Journey into Silence
 * How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow Up
 * I Found My Tribe: A Memoir
-* In The Midst of Winter (Isabelle Allende)
 * Quantum Computing from the ground up
 * Thinking Strategically - the competitive edge in business in politics and everyday life
 
+# Fiction
+* In The Midst of Winter (Isabelle Allende)
+* The Brief Wondrous Life of Oscar Wao - Dominican Man moves to Harlem
+* White Noise - Post Modern novel
+* Wonder Boys Chabon
+* In Cold Blood truman capote
 
 # Nature writing
 * Deep Creek (Paperback)
