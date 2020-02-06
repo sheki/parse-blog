@@ -8,7 +8,6 @@ date = 2019-12-09T20:47:40-08:00
 * The Choice: A Fable of Free Trade and Protection (3rd Edition) 
 * Becoming a Technical Leader: An Organic Problem-Solving Approach
 * Extreme economies
-* Aerlin Alexanderplatz by Alfred Döblin - Golden Age of Berlin
 * How Learning Works
 * The Beginning of Infinity - Quantum Physics
 * Ideas in Food: Great Recipes and Why They Work: A Cookbook
@@ -51,7 +50,6 @@ date = 2019-12-09T20:47:40-08:00
 # Philosophy
 * The Sickness Unto Death - Book by Søren Kierkegaard Philosophy
 * The technological society Jacques French philosopher
-* Why Buddhism is true
 * The Origin Of Consciousness In The Breakdown Of The Bicameral Mind by Julian Jaynes
 * The Source Of Self-Regard: Selected Essays, Speeches, And Meditations
 * The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers, Seventh Edition - TLDR Economics
