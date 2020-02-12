@@ -28,6 +28,7 @@ date = 2019-12-09T20:47:40-08:00
 * I Found My Tribe: A Memoir
 * Quantum Computing from the ground up
 * Thinking Strategically - the competitive edge in business in politics and everyday life
+* The Decadent Society: How We Became the Victims of Our Own Success Hardcover – February 25, 2020
 
 # Fiction
 * In The Midst of Winter (Isabelle Allende)
