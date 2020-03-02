@@ -8,19 +8,15 @@ date = 2019-12-09T20:47:40-08:00
 * The Choice: A Fable of Free Trade and Protection (3rd Edition) 
 * Becoming a Technical Leader: An Organic Problem-Solving Approach
 * Extreme economies
-* How Learning Works
 * The Beginning of Infinity - Quantum Physics
 * Ideas in Food: Great Recipes and Why They Work: A Cookbook
 * Syrup Paperback -  hoot book
 * The Book of Disquiet (Penguin Classics) Paperback  - Great portugese book
 * The Invention of Science: A New History of the Scientific Revolution Reprint Edition
 * As I Walked Out One Midsummer Morning - travel book set in 1930s
-* The True Believer: Thoughts on the Nature of Mass Movements (Perennial Classics) Paperback – January 19, 2010
-* The Value of Everything: Making and Taking in the Global Economy - Critique of how the economy is not working.
 * Farsighted: How We Make the Decisions That Matter the Most
 * How to Succeed with People: Remarkably Easy Ways to Engage, Influence and Motivate Almost Anyone
 * Beyond Weird - Quantum Physics
-* Me, Myself, and Us: The Science of Personality and the Art of Well-Being 
 * Games and Decisions: Introduction and Critical Survey (Dover Books on Mathematics)
 * Mindset: The New Psychology of Success
 * The Last Wilderness, A Journey into Silence
@@ -29,6 +25,7 @@ date = 2019-12-09T20:47:40-08:00
 * Quantum Computing from the ground up
 * Thinking Strategically - the competitive edge in business in politics and everyday life
 * The Decadent Society: How We Became the Victims of Our Own Success Hardcover – February 25, 2020
+* Our Man: Richard Holbrooke and the End of the American Century - American Foreign policy biography
 
 # Fiction
 * In The Midst of Winter (Isabelle Allende)
@@ -36,6 +33,8 @@ date = 2019-12-09T20:47:40-08:00
 * White Noise - Post Modern novel
 * Wonder Boys Chabon
 * In Cold Blood truman capote
+* Stegner’s Angle of Repose - set in California historic memoir
+* Humboldts Gift — Saul Bellow
 
 # Nature writing
 * Deep Creek (Paperback)
@@ -55,5 +54,4 @@ date = 2019-12-09T20:47:40-08:00
 * The Source Of Self-Regard: Selected Essays, Speeches, And Meditations
 * The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers, Seventh Edition - TLDR Economics
 * Jerks and other Philosophical Misadventures
-* Edith hall Aristotle
 * How to be a Stoic 
