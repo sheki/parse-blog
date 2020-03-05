@@ -20,18 +20,22 @@ body {
   flex-direction: row;
 }
 
+:root {
+  --yellow: #FFFF00;
+}
+
 .header {
   height: 200px;
-  background-color: #832232;
-  color: white;
+  background-color: #A463F2;
+  color:  var(--yellow);
   display: flex;
   align-items: center;
 }
 
-a.item:link { color: white;  }
-a.item:visited { color: white; }
-a.item:hover { color: white; }
-a.item:active { color: white; }
+a.item:link { color: var(--yellow);  }
+a.item:visited { color: var(--yellow); }
+a.item:hover { color: var(--yellow); }
+a.item:active { color: var(--yellow); }
 
 .links {
   margin-top: 10px;
