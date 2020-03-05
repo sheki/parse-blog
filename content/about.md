@@ -4,11 +4,9 @@ title = "About"
 
 +++
 My name is Abhishek, Kona. I work as a software engineer at Slack.com. I live
-in San Francisco.
-
+in New York city.
 
 Email:  {{< cloakemail address="abhishek.kona@gmail.com" >}}
-
 
 I have been lucky to work at some great software companies
 in the past **Flipkart**, **Facebook** and **Flexport**. I have a thing for
