@@ -52,3 +52,19 @@ a.item:active { color: var(--yellow); }
 .article {
   margin-left: 1in;
 }
+
+.listicle {
+  list-style-type: none;
+  padding-left: 1em;
+}
+
+.listicleMain {
+  margin-left: 1in;
+}
+
+.listicle > li::before {
+  content: "–";
+  position: absolute;
+  /*change margin to move dash around*/
+  margin-left: -1em;
+}

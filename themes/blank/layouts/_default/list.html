@@ -1,10 +1,10 @@
 {{ partial "header.html" . }}
-	<main>
-    <ul>
-    {{ range sort .Data.Pages "Title"  }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+<main class="listicleMain">
+	<ul class="listicle">
+		{{ range sort .Data.Pages "Title"  }}
+		<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 		{{ end }}
-    </ul>
-		{{ partial "pagination.html" . }}
-	</main>
+	</ul>
+	{{ partial "pagination.html" . }}
+</main>
 {{ partial "footer.html" . }}
