@@ -11,7 +11,6 @@ date = 2019-12-09T20:47:40-08:00
 * The Beginning of Infinity - Quantum Physics
 * Ideas in Food: Great Recipes and Why They Work: A Cookbook
 * Syrup Paperback -  hoot book
-* The Book of Disquiet (Penguin Classics) Paperback  - Great portugese book
 * The Invention of Science: A New History of the Scientific Revolution Reprint Edition
 * As I Walked Out One Midsummer Morning - travel book set in 1930s
 * Farsighted: How We Make the Decisions That Matter the Most
@@ -19,13 +18,13 @@ date = 2019-12-09T20:47:40-08:00
 * Beyond Weird - Quantum Physics
 * Games and Decisions: Introduction and Critical Survey (Dover Books on Mathematics)
 * Mindset: The New Psychology of Success
-* The Last Wilderness, A Journey into Silence
 * How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow Up
 * I Found My Tribe: A Memoir
 * Quantum Computing from the ground up
 * Thinking Strategically - the competitive edge in business in politics and everyday life
 * The Decadent Society: How We Became the Victims of Our Own Success Hardcover – February 25, 2020
 * Our Man: Richard Holbrooke and the End of the American Century - American Foreign policy biography
+* The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
 
 # Fiction
 * In The Midst of Winter (Isabelle Allende)
@@ -35,11 +34,15 @@ date = 2019-12-09T20:47:40-08:00
 * In Cold Blood truman capote
 * Stegner’s Angle of Repose - set in California historic memoir
 * Humboldts Gift — Saul Bellow
+* Deacon King Kong (Hardcover)
+* Chesapeake Requiem (Paperback)
 
 # Nature writing
 * Deep Creek (Paperback)
 * The snow leaopard project
 * Savage Gods - . It’s about moving to a smallholding in Ireland with his family in search of a more contented life, getting back to the land. But it hasn’t quite worked out that way.
+* Chesapeake Requiem (Paperback)
+
 
 # Essays
 * 97,196 Words: Essays – by Emmanuel Carrère
