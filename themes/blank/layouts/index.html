@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<main style="max-width: 500px; word-wrap: break-word; margin: 15px;">
+<main style="max-width: 60vw; word-wrap: break-word; margin: 15px;">
   {{ $paginator := .Paginate (where .Site.Pages "Type" "post") 50}}<div>
   {{ range $paginator.Pages }}
     {{ if ne .Title "Posts" }}

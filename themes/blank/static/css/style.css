@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+
 body {
-  font-family: 'Inria Serif', serif;
+  font-family: 'IBM Plex Sans', sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
+  font-weight: 400;
 }
 
 .item {
