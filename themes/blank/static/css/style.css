@@ -21,21 +21,21 @@ body {
 }
 
 :root {
-  --yellow: #FFFF00;
+  --header-color: #000000;
 }
 
 .header {
   height: 200px;
   background-color: #A463F2;
-  color:  var(--yellow);
+  color:  var(--header-color);
   display: flex;
   align-items: center;
 }
 
-a.item:link { color: var(--yellow);  }
-a.item:visited { color: var(--yellow); }
-a.item:hover { color: var(--yellow); }
-a.item:active { color: var(--yellow); }
+a.item:link { color: var(--header-color);  }
+a.item:visited { color: var(--header-color); }
+a.item:hover { color: var(--header-color); }
+a.item:active { color: var(--header-color); }
 
 .links {
   margin-top: 10px;
