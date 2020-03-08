@@ -50,7 +50,7 @@ a.item:active { color: var(--header-color); }
 }
 
 .article {
-  margin-left: 1in;
+  margin-left: 10%;
 }
 
 .listicle {
