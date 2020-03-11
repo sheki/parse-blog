@@ -1,4 +1,5 @@
 baseurl = "https://sheki.in/"
+staticDir = ["static"]
 languageCode = "en-us"
 title = "shekispeaks"
 theme = ["hugo-cloak-email", "blank"]
