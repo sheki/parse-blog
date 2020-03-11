@@ -25,6 +25,7 @@ date = 2019-12-09T20:47:40-08:00
 * The Decadent Society: How We Became the Victims of Our Own Success Hardcover – February 25, 2020
 * Our Man: Richard Holbrooke and the End of the American Century - American Foreign policy biography
 * The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
+* Emergence of Globalism (recommended by Piketty)
 
 # Fiction
 * In The Midst of Winter (Isabelle Allende)
