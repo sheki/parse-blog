@@ -2,7 +2,7 @@
 title = "Spreadsheet — a personal history"
 Tags = ["software", "history"]
 date = 2020-03-11T16:23:55-04:00
-draft = true
+draft = false
 +++
 When I was a kid, I created a game of cricket in a spreadsheet  program called Lotus 1-2-3. Each die roll would represent a ball being bowled in a cricket game, and the number told me what happened  — a batter got out, or scored a run. I kept rolling the die and entering the numbers onto the spreadsheet and in course simulated a game of cricket. My cricket universe within the spreadsheet tracked statistics — batting averages and strike rates for all the players. I spent an equal amount of time playing the game and improving the spreadsheet.
 
