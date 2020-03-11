@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "shekispeaks"
 theme = ["hugo-cloak-email", "blank"]
 publishDir = "public"
+googleAnalytics = "UA-57978691-1"
 [indexes]
   category = "categories"
   tag = "tags"
