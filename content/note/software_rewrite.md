@@ -4,6 +4,9 @@ Tags = ["software", "rewrite"]
 date = 2019-10-27T12:50:52-07:00
 +++
 
+## Dropbox does some rewriting
+https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
+
 ## Rewrite dl.google.com in Go.
 
 [Google rewrote the service that serves chrome and other downloads in Go.][1]

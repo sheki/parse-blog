@@ -26,6 +26,7 @@ date = 2019-12-09T20:47:40-08:00
 * Our Man: Richard Holbrooke and the End of the American Century - American Foreign policy biography
 * The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
 * Emergence of Globalism (recommended by Piketty)
+* Flash: The Making of Weegee the Famous
 
 # Fiction
 * In The Midst of Winter (Isabelle Allende)
