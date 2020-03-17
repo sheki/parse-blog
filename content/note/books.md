@@ -27,9 +27,10 @@ date = 2019-12-09T20:47:40-08:00
 * The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
 * Emergence of Globalism (recommended by Piketty)
 * Flash: The Making of Weegee the Famous
+* The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)
+
 
 # Fiction
-* In The Midst of Winter (Isabelle Allende)
 * The Brief Wondrous Life of Oscar Wao - Dominican Man moves to Harlem
 * White Noise - Post Modern novel
 * Wonder Boys Chabon
@@ -44,7 +45,6 @@ date = 2019-12-09T20:47:40-08:00
 * The snow leaopard project
 * Savage Gods - . It’s about moving to a smallholding in Ireland with his family in search of a more contented life, getting back to the land. But it hasn’t quite worked out that way.
 * Chesapeake Requiem (Paperback)
-
 
 # Essays
 * 97,196 Words: Essays – by Emmanuel Carrère
