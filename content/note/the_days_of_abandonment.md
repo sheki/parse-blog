@@ -25,7 +25,7 @@ On her own, family resonated with my family:
 
 On breaking down:
 > But I felt that things were taking a turn for the worse, and I was frightened.
-> Havint to stay alert in order to avoid mistakes and confront dangers had exhausted
+> Having to stay alert in order to avoid mistakes and confront dangers had exhausted
 > me to the point where sometimes simply the urgency of doing something made me think
 > that I really had done it.
 
