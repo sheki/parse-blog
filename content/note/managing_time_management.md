@@ -1,5 +1,5 @@
 +++
-title = "Productivity"
+title = "Managing time management"
 Tags = ["productivity"]
 date = 2019-01-09T10:40:10-08:00
 +++
