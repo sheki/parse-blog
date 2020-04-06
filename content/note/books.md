@@ -28,6 +28,7 @@ date = 2019-12-09T20:47:40-08:00
 * Emergence of Globalism (recommended by Piketty)
 * Flash: The Making of Weegee the Famous
 * The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)
+* City we became
 
 
 # Fiction
@@ -51,6 +52,8 @@ date = 2019-12-09T20:47:40-08:00
 * The Dolphin Letters
 * NOBODY’S LOOKING AT YOU: ESSAYS by Janet Malcolm
 * Inside The Whale And Other Essays by George Orwell
+* The End of the End of the Earth (Paperback)
+
 
 # Philosophy
 * The Sickness Unto Death - Book by Søren Kierkegaard Philosophy
