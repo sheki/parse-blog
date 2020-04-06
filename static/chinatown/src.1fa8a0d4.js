@@ -149,4 +149,4 @@ var e=arguments[3],r=function(){if("undefined"!=typeof globalThis)return globalT
 },{"react":"HdMw","reason-react/src/ReasonReactRouter.js":"sM7N","./AdminBoard.bs.js":"xZRy","./GameContainer.bs.js":"Q6jR"}],"EcSs":[function(require,module,exports) {
 "use strict";var e=require("react"),r=require("react-dom"),t=require("./Main.bs.js"),n=document.createElement("style");function a(e){var r=document.createElement("div");return document.body.appendChild(r),r}document.head.appendChild(n),r.render(e.createElement(t.make,{}),a(0)),exports.style=n,exports.makeShekiContainer=a;
 },{"react":"HdMw","react-dom":"X9zx","./Main.bs.js":"judq"}]},{},["EcSs"], null)
-//# sourceMappingURL=chinatown/src.1fa8a0d4.js.map
+//# sourceMappingURL=/src.1fa8a0d4.js.map
