@@ -29,6 +29,7 @@ date = 2019-12-09T20:47:40-08:00
 * Flash: The Making of Weegee the Famous
 * The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)
 * City we became
+* Goodbye Things: The New Japanese Minimalism
 
 
 # Fiction
