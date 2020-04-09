@@ -1,6 +1,6 @@
 +++
 title = "Book notes: The Organized Mind: Thinking Straight in the Age of Information"
-Tags = ["book"]
+Tags = ["book", "procastination"]
 date = 2019-12-09T20:01:31-08:00
 +++
 
