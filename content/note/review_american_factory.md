@@ -1,6 +1,6 @@
 +++
 title = "Review: American Factory"
-Tags = ["review", "china", "documentary"]
+Tags = ["review", "China", "documentary", "globalization", "factory"]
 date = 2020-01-03T19:04:55-05:00
 +++
 
