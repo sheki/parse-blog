@@ -30,6 +30,9 @@ date = 2019-12-09T20:47:40-08:00
 * The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)
 * City we became
 * Goodbye Things: The New Japanese Minimalism
+* These Truths — Jill Lepore
+* A moveable feast — Hemingway
+* “The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China,
 
 
 # Fiction
@@ -56,9 +59,7 @@ date = 2019-12-09T20:47:40-08:00
 * Inside The Whale And Other Essays by George Orwell
 * The End of the End of the Earth (Paperback)
 
-
 # Philosophy
-* The Sickness Unto Death - Book by Søren Kierkegaard Philosophy
 * The technological society Jacques French philosopher
 * The Origin Of Consciousness In The Breakdown Of The Bicameral Mind by Julian Jaynes
 * The Source Of Self-Regard: Selected Essays, Speeches, And Meditations
