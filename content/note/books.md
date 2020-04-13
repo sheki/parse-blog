@@ -32,6 +32,7 @@ date = 2019-12-09T20:47:40-08:00
 * These Truths — Jill Lepore
 * A moveable feast — Hemingway
 * “The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China,
+* India Moving
 
 # Fiction
 * City we became
