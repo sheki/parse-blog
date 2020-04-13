@@ -28,15 +28,13 @@ date = 2019-12-09T20:47:40-08:00
 * Emergence of Globalism (recommended by Piketty)
 * Flash: The Making of Weegee the Famous
 * The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)
-* City we became
 * Goodbye Things: The New Japanese Minimalism
 * These Truths — Jill Lepore
 * A moveable feast — Hemingway
 * “The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China,
 
-
 # Fiction
-* The Brief Wondrous Life of Oscar Wao - Dominican Man moves to Harlem
+* City we became
 * White Noise - Post Modern novel
 * Wonder Boys Chabon
 * In Cold Blood truman capote
