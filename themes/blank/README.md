@@ -1,6 +1,6 @@
 # Blank
 
-Blank — starter [Hugo](//gohugo.io/) theme for developers. Use it to make your own theme.
+Blank—starter [Hugo](//gohugo.io/) theme for developers. Use it to make your own theme.
 
 [Live Demo](http://themes.gohugo.io/theme/blank/)
 

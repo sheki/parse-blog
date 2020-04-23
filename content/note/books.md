@@ -29,8 +29,8 @@ date = 2019-12-09T20:47:40-08:00
 * Flash: The Making of Weegee the Famous
 * The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)
 * Goodbye Things: The New Japanese Minimalism
-* These Truths — Jill Lepore
-* A moveable feast — Hemingway
+* These Truths—Jill Lepore
+* A moveable feast—Hemingway
 * “The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China,
 * India Moving
 
@@ -41,7 +41,7 @@ date = 2019-12-09T20:47:40-08:00
 * Wonder Boys Chabon
 * In Cold Blood truman capote
 * Stegner’s Angle of Repose - set in California historic memoir
-* Humboldts Gift — Saul Bellow
+* Humboldts Gift—Saul Bellow
 * Deacon King Kong (Hardcover)
 * Chesapeake Requiem (Paperback)
 * The four wise men Book by Michel Tournier

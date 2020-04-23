@@ -11,7 +11,7 @@ date = 2019-12-10T11:42:47-08:00
 impact on employee engagement. **
 
 > Consider these two companies: The first is a retail chain with hundreds of
-> locations globally — innovative, but basically a sales platform. The second
+> locations globally—innovative, but basically a sales platform. The second
 > is a hospital that treats the world’s most devastating cancers. Which do you
 > think has a more engaged workforce?  If you chose the latter, in light of its
 > quest to save lives, you wouldn’t be alone. Yet, when we spent time with both

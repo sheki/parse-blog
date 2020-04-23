@@ -31,10 +31,10 @@ date = 2019-09-26T21:01:11-07:00
 
 ## On Shenzen
 
-> I was in Shenzhen in ’84, ’85 maybe. And the city at the time — it was
+> I was in Shenzhen in ’84, ’85 maybe. And the city at the time—it was
 > basically not a fishing village, but it was a small town. It had altogether
 > about 300,000 people. And the mayor of Shenzhen showed a team of the World
-> Bank — I was part of it — a plan, and they said, “We want to build a city of
+> Bank—I was part of it—a plan, and they said, “We want to build a city of
 > five million. Would you finance infrastructure?”
 > I did a back-of-envelope calculation. I said, “300,000 to 5 million, are you
 > kidding? Try to do a city of a million and a half, maybe two million will

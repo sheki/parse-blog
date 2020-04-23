@@ -14,7 +14,7 @@ the rapid advance of technology when she meets a few researchers who are buildin
 a digital replica of Maes Howe with lasers.
 
 
-On observing some birds from her window — ospreys and peregrine falcons — she longs 
+On observing some birds from her window—ospreys and peregrine falcons—she longs 
 for their carefree life free from familial responsibility.
 
 

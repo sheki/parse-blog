@@ -1,5 +1,5 @@
 +++
-title = "Book notes: The Days of Abandonment — Elena Ferrante"
+title = "Book notes: The Days of Abandonment—Elena Ferrante"
 Tags = ["Italian", "Turin", "divorce", "book", "fiction"]
 date = 2020-01-09T23:25:55-05:00
 +++
@@ -17,10 +17,10 @@ On Turin:
 discovered how pleasant it was to watch the seasons from the balcony.
 
 On her own, family resonated with my family:
-> My own family was full of noisy emotions, always on display, and I — especially
+> My own family was full of noisy emotions, always on display, and I—especially
 > during adolescence, even when I was sitting mutely, hands covering my ears, in
 > a corner of our house in Naples, oppressed by the traffic of Via Salvator Rosa
-> — I felt that I was inside a clamorous life and that everything might come apart
+>—I felt that I was inside a clamorous life and that everything might come apart
 > because of a too piercing sentence, an ungentle movement of the body.
 
 On breaking down:
@@ -31,7 +31,7 @@ On breaking down:
 
 This paragraph reminded me of the great Argentinian movie Wild Tales:
 
-> From a small window in the wall to my left a man stuck his head out; he was not disposed to chat, and he got rid of me with a few words and disappeared again: there were no offices, let alone open to the public; everything was reduced to aseptic voice, computer screen, e-mail, bank operation; if a person — he said to me coldly — has anger to vent, sorry, there’s no one here to tangle with.
+> From a small window in the wall to my left a man stuck his head out; he was not disposed to chat, and he got rid of me with a few words and disappeared again: there were no offices, let alone open to the public; everything was reduced to aseptic voice, computer screen, e-mail, bank operation; if a person—he said to me coldly—has anger to vent, sorry, there’s no one here to tangle with.
 
 On recovering:
 

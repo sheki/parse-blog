@@ -3,7 +3,7 @@ title = "Not far on the Highway One"
 Tags = ["California"]
 date = 2019-10-20T21:48:21-07:00
 +++
-On a muggy San Francisco morning we — me and Aditi, set out south on Highway
+On a muggy San Francisco morning we—me and Aditi, set out south on Highway
 One without a real plan.
 
 

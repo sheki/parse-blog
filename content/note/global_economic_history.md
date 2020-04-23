@@ -37,7 +37,7 @@ date = 2020-04-07T15:16:16-04:00
 > Japan was the greatest success of the 20th century, for it was indubitably a
 > poor country in 1820 and yet managed to close the income gap with the West.
 
-## The great divergence — or how the west grew at a faster clip
+## The great divergence—or how the west grew at a faster clip
 
 > 1750, most of the world’s manufacturing took place in China (33% of the world
 > total) and the Indian subcontinent (25%). Production per person was lower in

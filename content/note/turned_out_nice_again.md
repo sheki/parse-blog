@@ -1,5 +1,5 @@
 +++
-title = "Book notes: Turned out nice again — Richard Mabey"
+title = "Book notes: Turned out nice again—Richard Mabey"
 Tags = ["book", "weather", "British", "nature"]
 date = 2020-03-21T19:44:30-04:00
 +++
@@ -11,7 +11,7 @@ date = 2020-03-21T19:44:30-04:00
 > No convincing explanation has been found for this apparition, which is usually associated with storms, and appears as a bright, vaguely spherical ball of electromagnetic energy capable of moving through the air, breaking windows and entering buildings, crawling up walls and along floors , and occasionally killing people stone dead.
 
 ## On black dog
-> The phrase ‘black dog; became a metaphor for another kind of affliction — melancholy or depression.
+> The phrase ‘black dog; became a metaphor for another kind of affliction—melancholy or depression.
 > ‘ When I raise my breakfast is solitary , the black dog waits to share it, from 
 > breakfast to dinner he continues barking...’
 
