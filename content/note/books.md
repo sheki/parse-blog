@@ -35,6 +35,7 @@ date = 2019-12-09T20:47:40-08:00
 * India Moving
 * The man who mistook his wife for a hat—O Sacks
 * Lost in Thought: The Hidden Pleasures of an Intellectual Life
+* Stalingrad by Vasily Grossman 
 
 # Fiction
 * Nice Work—David Lodge
