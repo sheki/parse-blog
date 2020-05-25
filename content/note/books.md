@@ -47,6 +47,7 @@ date = 2019-12-09T20:47:40-08:00
 * Deacon King Kong (Hardcover)
 * Chesapeake Requiem (Paperback)
 * The four wise men Book by Michel Tournier
+* Hopscotch Novel by Julio Cortázar
 
 # Nature writing
 * Deep Creek (Paperback)
