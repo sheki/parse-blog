@@ -1,5 +1,3 @@
-# GG
-
 +++
 title = "Book notes: The Idea Factory: Bell Labs and the Great Age of American Innovation"
 Tags = ["history", "USA", "tehchnology", "innovation", "Bell Labs"]
