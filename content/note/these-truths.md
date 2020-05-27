@@ -1,5 +1,5 @@
 +++
-title = "Boook notes: These Truths: A History of the United States—Jill Lepore"
+title = "Book notes: These Truths: A History of the United States—Jill Lepore"
 Tags = ["history", "USA", "presidents", "politics"]
 date = 2020-05-15T19:59:01-04:00
 +++
