@@ -188,10 +188,34 @@ On the future
 > A technically competent management all the way to the top. Researchers didn’t have to raise funds. Research on a topic or system could be and was supported for years. Research could be terminated without damning the researcher.
 
 Its not the market
-> Companies that are good at innovating are good at competing in the market; the uncompromising nature of the market, in turn, is a powerful force on companies to innovate. But Bell Labs’ history demonstrates that the truth is actually far more complicated. It also suggests that we tend to misinterpret the value of markets. What seems more likely, as the science writer Steven Johnson has noted in a broad study of scientific innovations, is that creative environments that foster a rich exchange of ideas are far more important in eliciting important new insights than are the forces of competition.18 Indeed, one might concede that market competition has been superb at giving consumers incremental and appealing improvements. But that does not mean it has been good at prompting huge advances (such as those at Bell Labs, as well as those that allowed for the creation of the Internet, for instance, or, even earlier, antibiotics). It’s the latter types that pay to society the biggest and most lasting dividends. And it was almost always the latter types that Kelly and Pierce and Baker were striving for. It may be the case, too, that we not only mistake the potential for free market competition to prompt big breakthroughs.
+
+> Companies that are good at innovating are good at competing in the market;
+> the uncompromising nature of the market, in turn, is a powerful force on
+> companies to innovate. But Bell Labs’ history demonstrates that the truth is
+> actually far more complicated. It also suggests that we tend to misinterpret
+> the value of markets. What seems more likely, as the science writer Steven
+> Johnson has noted in a broad study of scientific innovations, is that
+> creative environments that foster a rich exchange of ideas are far more
+> important in eliciting important new insights than are the forces of
+> competition.18 Indeed, one might concede that market competition has been
+> superb at giving consumers incremental and appealing improvements. But that
+> does not mean it has been good at prompting huge advances (such as those at
+> Bell Labs, as well as those that allowed for the creation of the Internet,
+> for instance, or, even earlier, antibiotics). It’s the latter types that pay
+> to society the biggest and most lasting dividends. And it was almost always
+> the latter types that Kelly and Pierce and Baker were striving for. It may be
+> the case, too, that we not only mistake the potential for free market
+> competition to prompt big breakthroughs.
 
 Markets do not lead to innovation
-> “Where Do Innovations Come From?” concluded that partnerships among corporations, government laboratories, and federally funded university researchers has become increasingly essential to the U.S. innovation pipeline over the past several decades. In 2006, for instance, “77 of the 88 U.S. entities” that produced significant innovations were beneficiaries of federal funding.19 Clearly, at least in regard to innovation, capitalism is more deeply intertwined with government than many of us realize.
+
+> “Where Do Innovations Come From?” concluded that partnerships among
+> corporations, government laboratories, and federally funded university
+> researchers has become increasingly essential to the U.S. innovation pipeline
+> over the past several decades. In 2006, for instance, “77 of the 88 U.S.
+> entities” that produced significant innovations were beneficiaries of federal
+> funding.19 Clearly, at least in regard to innovation, capitalism is more
+> deeply intertwined with government than many of us realize.
 
 
 
