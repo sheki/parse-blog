@@ -38,6 +38,8 @@ date = 2019-12-09T20:47:40-08:00
 * Stalingrad by Vasily Grossman 
 
 # Fiction
+* Nobbler https://www.amazon.com/dp/1529389097?tag=fivebooks001-20
+* Rules for Visiting: A Novel https://www.amazon.com/dp/0525559221?tag=fivebooks001-20
 * Nice Work—David Lodge
 * City we became
 * White Noise - Post Modern novel
