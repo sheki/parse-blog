@@ -23,13 +23,11 @@ date = 2019-12-09T20:47:40-08:00
 * Quantum Computing from the ground up
 * Thinking Strategically - the competitive edge in business in politics and everyday life
 * The Decadent Society: How We Became the Victims of Our Own Success Hardcover – February 25, 2020
-* Our Man: Richard Holbrooke and the End of the American Century - American Foreign policy biography
 * The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
 * Emergence of Globalism (recommended by Piketty)
 * Flash: The Making of Weegee the Famous
 * The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)
 * Goodbye Things: The New Japanese Minimalism
-* These Truths—Jill Lepore
 * A moveable feast—Hemingway
 * “The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China,
 * India Moving
@@ -42,7 +40,6 @@ date = 2019-12-09T20:47:40-08:00
 * Rules for Visiting: A Novel https://www.amazon.com/dp/0525559221?tag=fivebooks001-20
 * Nice Work—David Lodge
 * City we became
-* White Noise - Post Modern novel
 * Wonder Boys Chabon
 * In Cold Blood truman capote
 * Stegner’s Angle of Repose - set in California historic memoir
