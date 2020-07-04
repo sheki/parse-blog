@@ -5,6 +5,7 @@ date = 2019-12-09T20:47:40-08:00
 +++
 
 * Out of China: How the Chinese Ended the Era of Western Domination 
+* The Last Kings of Shanghai: The Rival Jewish Dynasties That Helped Create Modern China
 * The Choice: A Fable of Free Trade and Protection (3rd Edition) 
 * Becoming a Technical Leader: An Organic Problem-Solving Approach
 * Extreme economies
@@ -13,11 +14,9 @@ date = 2019-12-09T20:47:40-08:00
 * Syrup Paperback -  hoot book
 * The Invention of Science: A New History of the Scientific Revolution Reprint Edition
 * As I Walked Out One Midsummer Morning - travel book set in 1930s
-* Farsighted: How We Make the Decisions That Matter the Most
 * How to Succeed with People: Remarkably Easy Ways to Engage, Influence and Motivate Almost Anyone
 * Beyond Weird - Quantum Physics
 * Games and Decisions: Introduction and Critical Survey (Dover Books on Mathematics)
-* Mindset: The New Psychology of Success
 * How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow Up
 * I Found My Tribe: A Memoir
 * Quantum Computing from the ground up
@@ -37,23 +36,18 @@ date = 2019-12-09T20:47:40-08:00
 
 # Fiction
 * Nobbler https://www.amazon.com/dp/1529389097?tag=fivebooks001-20
-* Rules for Visiting: A Novel https://www.amazon.com/dp/0525559221?tag=fivebooks001-20
 * Nice Work—David Lodge
 * City we became
-* Wonder Boys Chabon
 * In Cold Blood truman capote
 * Stegner’s Angle of Repose - set in California historic memoir
 * Humboldts Gift—Saul Bellow
 * Deacon King Kong (Hardcover)
-* Chesapeake Requiem (Paperback)
 * The four wise men Book by Michel Tournier
 * Hopscotch Novel by Julio Cortázar
-* Red Dress in Black and White (Hardcover)
-* A Taste of Sage (Paperback)
-
 
 # Nature writing
 * Deep Creek (Paperback)
+* Chesapeake Requiem
 * The snow leaopard project
 * Savage Gods - . It’s about moving to a smallholding in Ireland with his family in search of a more contented life, getting back to the land. But it hasn’t quite worked out that way.
 * Chesapeake Requiem (Paperback)
