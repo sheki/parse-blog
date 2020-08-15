@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 <main class="listicleMain">
 	<ul class="listicle">
-		{{ range sort .Data.Pages "Title"  }}
+		{{ range sort .Pages.ByDate "value" "desc"  }}
 		<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 		{{ end }}
 	</ul>
