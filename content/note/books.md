@@ -5,14 +5,12 @@ date = 2019-12-09T20:47:40-08:00
 +++
 
 * Out of China: How the Chinese Ended the Era of Western Domination 
-* The Last Kings of Shanghai: The Rival Jewish Dynasties That Helped Create Modern China
 * The Choice: A Fable of Free Trade and Protection (3rd Edition) 
 * Becoming a Technical Leader: An Organic Problem-Solving Approach
 * Extreme economies
 * The Beginning of Infinity - Quantum Physics
 * Ideas in Food: Great Recipes and Why They Work: A Cookbook
 * Syrup Paperback -  hoot book
-* The Invention of Science: A New History of the Scientific Revolution Reprint Edition
 * As I Walked Out One Midsummer Morning - travel book set in 1930s
 * How to Succeed with People: Remarkably Easy Ways to Engage, Influence and Motivate Almost Anyone
 * Beyond Weird - Quantum Physics
@@ -26,7 +24,6 @@ date = 2019-12-09T20:47:40-08:00
 * Emergence of Globalism (recommended by Piketty)
 * Flash: The Making of Weegee the Famous
 * The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)
-* Goodbye Things: The New Japanese Minimalism
 * A moveable feast—Hemingway
 * “The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China,
 * India Moving
@@ -46,11 +43,8 @@ date = 2019-12-09T20:47:40-08:00
 * Hopscotch Novel by Julio Cortázar
 
 # Nature writing
-* Deep Creek (Paperback)
-* Chesapeake Requiem
 * The snow leaopard project
 * Savage Gods - . It’s about moving to a smallholding in Ireland with his family in search of a more contented life, getting back to the land. But it hasn’t quite worked out that way.
-* Chesapeake Requiem (Paperback)
 
 # Essays
 * 97,196 Words: Essays – by Emmanuel Carrère
