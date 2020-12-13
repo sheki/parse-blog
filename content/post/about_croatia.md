@@ -26,7 +26,6 @@ They settled in San Pedro in California, as fisherman.
 
 
 We saw a church called "Our Lady of the Pirates".
-{{< instagram B2EQVargaUn >}}
 
 
 I am not sure if something was
@@ -68,6 +67,5 @@ a speciality of the districts further away from the sea.
 Konobo Robinson in Viz was my favorite restaurant of the trip.
 
 
-{{< instagram  B2B7AivgbXA >}}
 
 
