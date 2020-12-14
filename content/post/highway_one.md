@@ -51,5 +51,5 @@ in the middle of sky blocking redwood grove. The fog seemed trapped there for
 eons. We got out of the car and took in the mist.
 
 
-I am grateful for California and how far I can go within one hour where I live.
+I am grateful for California and how far I can go within one hour of where I live.
 
