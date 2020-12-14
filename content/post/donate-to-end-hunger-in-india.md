@@ -20,3 +20,4 @@ This is when I realized that to make progress, I need to find charities that hav
 
 Reading books about places I have not been to, so often stirs so many different emotions in me and sometimes, like today, these emotions inspire action. This holiday season I urge you to read about places and people you know nothing about and to donate to charities that work to help the poor in the developing world.
 
+You can [follow me on substack](https://sheki.substack.com/) to receive these posts via email.
