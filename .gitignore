@@ -2,3 +2,4 @@ public
 .DS_Store
 parse_app/config
 parse_app/public
+.hugo_build.lock
