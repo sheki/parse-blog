@@ -2,10 +2,23 @@ baseurl = "https://sheki.in/"
 staticDir = ["static"]
 languageCode = "en-us"
 title = "shekispeaks"
-theme = ["hugo-cloak-email", "blank"]
+theme = ["archie"]
 publishDir = "public"
 googleAnalytics = "UA-57978691-1"
 [indexes]
   category = "categories"
   tag = "tags"
-[params]
+[[menu.main]]
+name = "All posts"
+url = "/post"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Talks"
+url = "/talks"
+weight = 4
