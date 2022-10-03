@@ -2,23 +2,28 @@ baseurl = "https://sheki.in/"
 staticDir = ["static"]
 languageCode = "en-us"
 title = "shekispeaks"
-theme = ["archie"]
+theme = ["minimal-bootstrap-hugo-theme"]
 publishDir = "public"
 googleAnalytics = "UA-57978691-1"
 [indexes]
   category = "categories"
   tag = "tags"
-[[menu.main]]
-name = "All posts"
-url = "/post"
-weight = 3
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 2
 
-[[menu.main]]
-name = "Talks"
-url = "/talks"
-weight = 4
+[menu]
+  [[menu.nav]]
+  name = "Posts"
+  url = "/"
+  weight = 1
+  [[menu.nav]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+  [[menu.nav]]
+  name = "About"
+  url = "/about/"
+  weight = 3
+  [[menu.nav]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 4
