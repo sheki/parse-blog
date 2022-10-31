@@ -43,6 +43,7 @@ googleAnalytics = "UA-57978691-1"
   [params.sidebar]
     # Whether to show the recent posts or not (default: true)
     showRecent = false
+    showTaxonomy = false
 
     # Whether to show the taxonomies or not (default: true)
     # showTaxonomy = false
