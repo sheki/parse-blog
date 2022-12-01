@@ -15,5 +15,4 @@ date = 2022-10-06T16:12:07-07:00
 
 3. DeepMind discovers a 10-20% faster algorithm for matrix multiplication.
 
-   - This is crazy. I wonder what else can we produce a better algorithm for. Better B-trees based on your data layout?
-   -
+   - I wonder what else can we produce a better algorithm for. Better B-trees based on your data layout?
