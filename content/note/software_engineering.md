@@ -7,6 +7,7 @@ draft: false
 ## Databases
 * [Connection pools should be smaller than you think.](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 * [Data loading pattern](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
+* [Two Phase Data load and render](https://brandur.org/two-phase-render)
 
 
 ## 
