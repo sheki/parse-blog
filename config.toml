@@ -4,3 +4,6 @@ languageCode = "en-us"
 title = "shekispeaks"
 publishDir = "public"
 theme = "etch"
+[params]
+  mainSections = ['post']
+

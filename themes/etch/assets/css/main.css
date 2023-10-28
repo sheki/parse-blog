@@ -16,6 +16,7 @@ body {
     padding: 0 16px;
     line-height: 1.6;
     overflow-wrap: break-word;
+    background-color: #fbd3d1;
 }
 
 header#banner {
