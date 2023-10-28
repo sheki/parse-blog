@@ -3,16 +3,4 @@ staticDir = ["static"]
 languageCode = "en-us"
 title = "shekispeaks"
 publishDir = "public"
-themes = ["archie"]
-
-[indexes]
-  category = "categories"
-  tag = "tags"
-
-[[params.menu]]
-  name = "blog"
-  url = "post/"
-
-[[params.menu]]
-  name = "notes"
-  url = "note/"
+theme = "etch"
