@@ -32,7 +32,6 @@ to it.
 ## Book recommendations
 
 * On writing well.
-* Draft number 4 by John Mc Fee.
 
 ## Useful links
 
