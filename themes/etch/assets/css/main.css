@@ -6,6 +6,11 @@ html {
     font-size: 62.5%;
 }
 
+@font-face {
+    font-family: 'virgil';
+    src: url('../font/Virgil.woff2') format('woff2');
+}
+
 body {
     font-size: 16px;
     font-size: 1.6rem;
@@ -21,6 +26,7 @@ body {
 
 header#banner {
     margin: 25px 0;
+    font-family: "virgil";
 }
 
 header#banner a {
