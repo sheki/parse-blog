@@ -27,6 +27,32 @@
     {{ $css := $resources | resources.Concat "css/style.css" | minify }}
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
 
+    <script>
+    const vantaraPrefix = "VNT";
+    window["_vantara_prefix"] = vantaraPrefix;
+    window[`${vantaraPrefix}_script`] = "/src/main.ts";
+    window[`${vantaraPrefix}_productId`] = "prd_00000000000000000000000000";
+    window[`${vantaraPrefix}_clientKey`] = "key_vgC8Nwv/3SfpkUN2+QuQgpJcHtjzJInYVwDPfc9+W0tV3FZgqCu0sl/Qdkr6Z6VRzUYIAMG4UGwczbeZm9q35Q==";
+    window[`${vantaraPrefix}_endpoint`] = "https://in.vantara.ai";
+
+    (function (windowObj, documentObj, prefix) {
+      const vantaraScriptElement = documentObj.createElement("script");
+      vantaraScriptElement.type = "module";
+      vantaraScriptElement.async = true;
+      vantaraScriptElement.crossOrigin = "anonymous";
+      vantaraScriptElement.src = windowObj[`${prefix}_script`].startsWith("/")
+        ? windowObj[`${prefix}_script`]
+        : "https://" + windowObj[`${prefix}_script`];
+
+      const firstScriptTag = documentObj.getElementsByTagName("script")[0];
+      firstScriptTag.parentNode.insertBefore(
+        vantaraScriptElement,
+        firstScriptTag,
+      );
+    })(window, document, vantaraPrefix);
+    </script>
+
+
     <link rel="canonical" href="{{ .Permalink }}" />
     <title>{{ .Title }}</title>
 </head>
