@@ -8,7 +8,7 @@ draft: false
 * [Connection pools should be smaller than you think.](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 * [Data loading pattern](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
 * [Two Phase Data load and render](https://brandur.org/two-phase-render)
-
+* [Pagination in MySQL](https://planetscale.com/blog/mysql-pagination)
 
 ## 
 
@@ -39,7 +39,6 @@ https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
 
 [Slack rebuilt their primary desktop app using React and a new multi team
 architecture.][2]
-
 
 #### Goals
 
