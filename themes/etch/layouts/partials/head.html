@@ -1,58 +1,33 @@
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ with .Site.Params.description -}}
-    <meta name="description" content="{{ . }}" />
-    {{ end }} {{ printf `
-    <link rel="shortcut icon" href="%s" />
-    ` ("favicon.ico" | absURL) | safeHTML }} {{ with .OutputFormats.Get "rss"
-    -}} {{ printf `
-    <link rel="%s" type="%s" href="%s" title="%s" />
-    ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}} {{
-    $resources := slice -}} {{ $resources = $resources | append (resources.Get
-    "css/main.css") -}} {{ $resources = $resources | append (resources.Get
-    "css/min770px.css") -}} {{ $dark := .Site.Params.dark | default "auto" -}}
-    {{ if not (eq $dark "off") -}} {{ $resources = $resources | append
-    (resources.Get "css/dark.css" | resources.ExecuteAsTemplate "dark.css" .)
-    -}} {{ end -}} {{ if .Site.Params.highlight -}} {{ $resources = $resources |
-    append (resources.Get "css/syntax.css") -}} {{ end -}} {{ $css := $resources
-    | resources.Concat "css/style.css" | minify }} {{ printf `
-    <link rel="stylesheet" href="%s" />
-    ` $css.RelPermalink | safeHTML }}
-    <script
-        async
-        type="text/javascript"
-        src="https://cdn.vantara.ai/vantara-browser-api.js"
-    />
-    <script>
-        window._vntQueue = window._vntQueue || [];
-        window.VNT = {
-            init: function () {
-                window._vntQueue.push([
-                    "init",
-                    Array.prototype.slice.call(arguments),
-                ]);
-            },
-            identify: function () {
-                window._vntQueue.push([
-                    "identify",
-                    Array.prototype.slice.call(arguments),
-                ]);
-            },
-        };
+    <meta name="description" content="{{ . }}">
+    {{ end }}
+    {{ printf `<link rel="shortcut icon" href="%s">` ("favicon.ico" | absURL) | safeHTML }}
+    {{ with .OutputFormats.Get "rss" -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
 
-        VNT.init(
-            "prd_00000000000000000000000001",
-            "key_s/OSk4v2rA72WtID+I9FEz5zITqaf4UUI7diJm1X0hA6WgQgf97crc1eoYZpvXHqpfhNU2IK6To/v7HUknAbXA==",
-            {
-                environment: "production",
-                version: "1.0.0", // optional
-                metadata: {
-                    site: "sheki.in",
-                },
-            },
-        );
-    </script>
+    {{ $resources := slice -}}
+
+    {{ $resources = $resources | append (resources.Get "css/main.css") -}}
+
+    {{ $resources = $resources | append (resources.Get "css/min770px.css") -}}
+
+    {{ $dark := .Site.Params.dark | default "auto" -}}
+    {{ if not (eq $dark "off") -}}
+        {{ $resources = $resources | append (resources.Get "css/dark.css" | resources.ExecuteAsTemplate "dark.css" .) -}}
+    {{ end -}}
+
+    {{ if .Site.Params.highlight -}}
+        {{ $resources = $resources | append (resources.Get "css/syntax.css") -}}
+    {{ end -}}
+
+    {{ $css := $resources | resources.Concat "css/style.css" | minify }}
+    {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
+    <script type="module" src="https://cdn.vantara.ai/vantara-browser-api.js"></script>
+    <script type="text/javascript" src="/js/vantara.js"></script>
 
     <link rel="canonical" href="{{ .Permalink }}" />
     <title>{{ .Title }}</title>
