@@ -4,6 +4,9 @@ date: 2023-10-27T14:57:58-07:00
 draft: false
 ---
 
+## Coding practice
+* [How to write a commit message](https://cbea.ms/git-commit/)
+
 ## Databases
 * [Connection pools should be smaller than you think.](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 * [Data loading pattern](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
