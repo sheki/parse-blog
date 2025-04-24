@@ -1,5 +1,5 @@
 window._vntQueue = window._vntQueue || [];
-window.VNT = {
+window.VNT ||= {
   init: function () {
     window._vntQueue.push(["init", Array.prototype.slice.call(arguments)]);
   },
@@ -7,6 +7,8 @@ window.VNT = {
     window._vntQueue.push(["identify", Array.prototype.slice.call(arguments)]);
   },
 };
+
+console.log("vantara loading");
 
 VNT.init(
   "prd_00000000000000000000000001",

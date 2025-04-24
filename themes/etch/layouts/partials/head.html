@@ -26,8 +26,8 @@
 
     {{ $css := $resources | resources.Concat "css/style.css" | minify }}
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
-    <script type="text/javascript" src="https://cdn.vantara.ai/vantara-browser-api-test.js"></script>
-    <script type="text/javascript" src="/js/vantara.js"></script>
+    <script type="module" src="/js/vantara.js"></script>
+    <script type="module" src="http://localhost/vantara-browser-api.js"></script>
 
    
     <link rel="canonical" href="{{ .Permalink }}" />
