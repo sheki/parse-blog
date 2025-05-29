@@ -8,6 +8,8 @@ html {
   font-size: 62.5%;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+
 @font-face {
   font-family: "virgil";
   src: url("../font/Virgil.woff2") format("woff2");
@@ -16,9 +18,7 @@ html {
 body {
   font-size: 16px;
   font-size: 1.6rem;
-  font-family:
-    -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Fraunces", serif;
   color: #313a3d;
   width: 100%;
   margin: 0 auto;
@@ -30,7 +30,7 @@ body {
 
 header#banner {
   margin: 25px 0;
-  font-family: "virgil";
+  font-family: "Fraunces", serif;
 }
 
 header#banner a {
