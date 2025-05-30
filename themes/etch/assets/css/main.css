@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+
 *,
 *:before,
 *:after {
@@ -8,8 +10,6 @@ html {
   font-size: 62.5%;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
-
 @font-face {
   font-family: "virgil";
   src: url("../font/Virgil.woff2") format("woff2");
@@ -19,13 +19,13 @@ body {
   font-size: 16px;
   font-size: 1.6rem;
   font-family: "Fraunces", serif;
-  color: #313a3d;
+  color: #2d3436;
   width: 100%;
   margin: 0 auto;
   padding: 0 16px;
   line-height: 1.6;
   overflow-wrap: break-word;
-  background-color: #9bb7d4;
+  background-color: #f8f9fa;
 }
 
 header#banner {
@@ -34,7 +34,7 @@ header#banner {
 }
 
 header#banner a {
-  color: #313a3d;
+  color: #2d3436;
   text-decoration: none;
 }
 
@@ -67,15 +67,16 @@ header#banner nav ul li {
 }
 
 header#banner nav ul li a {
-  color: #454545;
+  color: #636e72;
 }
 
 main#content a {
-  color: #007dfa;
+  color: #e17055;
   text-decoration: none;
 }
 
 main#content a:hover {
+  color: #d63031;
   text-decoration: underline;
 }
 
@@ -104,14 +105,14 @@ main#content h6 + p {
 }
 
 main#content p {
-  color: #394548;
+  color: #2d3436;
   margin: 16px 0;
 }
 
 main#content hr {
   height: 1px;
   border: 0;
-  background: #d8d8d8;
+  background: #ddd;
 }
 
 main#content abbr {
@@ -143,7 +144,7 @@ main#content ul#posts li a {
 }
 
 main#content ul#posts li a:hover {
-  color: #369aff;
+  color: #d63031;
 }
 
 main#content ul#posts li a:hover small {
