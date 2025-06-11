@@ -30,7 +30,7 @@ const Index = () => {
     {
       id: "1",
       name: "Proyecto Diaz Coffee",
-      image: "/images/proyecto-diaz-coffee.jpg",
+      image: "images/proyecto-diaz-coffee.jpg",
       eligibilityFilter: (dateTime: Date) => {
         const hour = dateTime.getHours();
         const day = dateTime.getDay();
@@ -42,27 +42,27 @@ const Index = () => {
     {
       id: "2",
       name: "Mother Tongue Coffee",
-      image: "/images/mother-tongue-coffee.jpg",
+      image: "images/mother-tongue-coffee.jpg",
     },
     {
       id: "3",
       name: "Crown Coffee",
-      image: "/images/crown-coffee.jpg",
+      image: "images/crown-coffee.jpg",
     },
     {
       id: "4",
       name: "Timeless Coffee",
-      image: "/images/timeless-coffee.jpg",
+      image: "images/timeless-coffee.jpg",
     },
     {
       id: "5",
       name: "Bicycle Coffee",
-      image: "/images/bicycle-coffee.jpg",
+      image: "images/bicycle-coffee.jpg",
     },
     {
       id: "6",
       name: "Pizzaiolo",
-      image: "/images/pizzaiolo.jpg",
+      image: "images/pizzaiolo.jpg",
       eligibilityFilter: (dateTime: Date) => {
         const hour = dateTime.getHours();
         const day = dateTime.getDay();
@@ -74,22 +74,22 @@ const Index = () => {
     {
       id: "7",
       name: "Third Culture Berkeley",
-      image: "/images/third-culture-berkeley.jpg",
+      image: "images/third-culture-berkeley.jpg",
     },
     {
       id: "8",
       name: "Xochi the Dog Cafe",
-      image: "/images/xochi-dog-cafe.jpg",
+      image: "images/xochi-dog-cafe.jpg",
     },
     {
       id: "9",
       name: "Starter Bakery",
-      image: "/images/starter-bakery.jpg",
+      image: "images/starter-bakery.jpg",
     },
     {
       id: "10",
       name: "Haddon Hill Cafe",
-      image: "/images/haddon-hill-cafe.jpg",
+      image: "images/haddon-hill-cafe.jpg",
     },
   ];
 
