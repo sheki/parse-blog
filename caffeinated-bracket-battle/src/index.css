@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -99,5 +101,6 @@
 
   body {
     @apply bg-background text-foreground;
+    font-family: 'Onest', sans-serif;
   }
 }

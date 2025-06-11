@@ -10,7 +10,7 @@ interface CoffeeShop {
   id: string;
   name: string;
   image: string;
-  votes?: number;
+  eligibilityFilter?: (dateTime: Date) => boolean;
 }
 
 interface Match {
@@ -28,29 +28,102 @@ const Index = () => {
   const [showAnimation, setShowAnimation] = useState(false);
 
   const initialCoffeeShops: CoffeeShop[] = [
-    { id: "1", name: "Bean & Gone", image: "photo-1649972904349-6e44c42644a7" },
-    { id: "2", name: "The Grind House", image: "photo-1488590528505-98d2b5aba04b" },
-    { id: "3", name: "Café Mocha", image: "photo-1581091226825-a6a2a5aee158" },
-    { id: "4", name: "Espresso Yourself", image: "photo-1486312338219-ce68d2c6f44d" },
-    { id: "5", name: "Java Junction", image: "photo-1460925895917-afdab827c52f" },
-    { id: "6", name: "Steam & Bean", image: "photo-1649972904349-6e44c42644a7" },
-    { id: "7", name: "Roast & Toast", image: "photo-1488590528505-98d2b5aba04b" },
-    { id: "8", name: "Brew Crew", image: "photo-1581091226825-a6a2a5aee158" },
+    {
+      id: "1",
+      name: "Proyecto Diaz Coffee",
+      image: "/images/proyecto-diaz-coffee.jpg",
+      eligibilityFilter: (dateTime: Date) => {
+        const hour = dateTime.getHours();
+        const day = dateTime.getDay();
+        // Closed Sundays, open 8am-3pm other days
+        if (day === 0) return false; // Sunday
+        return hour >= 8 && hour < 15;
+      },
+    },
+    {
+      id: "2",
+      name: "Mother Tongue Coffee",
+      image: "/images/mother-tongue-coffee.jpg",
+    },
+    {
+      id: "3",
+      name: "Crown Coffee",
+      image: "/images/crown-coffee.jpg",
+    },
+    {
+      id: "4",
+      name: "Timeless Coffee",
+      image: "/images/timeless-coffee.jpg",
+    },
+    {
+      id: "5",
+      name: "Bicycle Coffee",
+      image: "/images/bicycle-coffee.jpg",
+    },
+    {
+      id: "6",
+      name: "Pizzaiolo",
+      image: "/images/pizzaiolo.jpg",
+      eligibilityFilter: (dateTime: Date) => {
+        const hour = dateTime.getHours();
+        const day = dateTime.getDay();
+        // Open Wed-Sun 8am-12pm
+        if (day < 3) return false; // Monday, Tuesday
+        return hour >= 8 && hour < 12; // 8am-12pm
+      },
+    },
+    {
+      id: "7",
+      name: "Third Culture Berkeley",
+      image: "/images/third-culture-berkeley.jpg",
+    },
+    {
+      id: "8",
+      name: "Xochi the Dog Cafe",
+      image: "/images/xochi-dog-cafe.jpg",
+    },
+    {
+      id: "9",
+      name: "Starter Bakery",
+      image: "/images/starter-bakery.jpg",
+    },
+    {
+      id: "10",
+      name: "Haddon Hill Cafe",
+      image: "/images/haddon-hill-cafe.jpg",
+    },
   ];
+
+  const filterEligibleShops = (
+    shops: CoffeeShop[],
+    dateTime: Date,
+  ): CoffeeShop[] => {
+    return shops.filter((shop) => {
+      // If no eligibility filter is provided, shop is always eligible
+      if (!shop.eligibilityFilter) return true;
+      // Otherwise, use the shop's custom eligibility function
+      return shop.eligibilityFilter(dateTime);
+    });
+  };
 
   const createNextMatch = (shops: CoffeeShop[]): Match | null => {
     if (shops.length < 2) return null;
-    
+
+    // Randomly select two different coffee shops
+    const shuffledShops = [...shops].sort(() => Math.random() - 0.5);
+
     return {
       id: `match-${Date.now()}`,
-      shop1: shops[0],
-      shop2: shops[1],
+      shop1: shuffledShops[0],
+      shop2: shuffledShops[1],
     };
   };
 
   useEffect(() => {
-    setRemainingShops(initialCoffeeShops);
-    const firstMatch = createNextMatch(initialCoffeeShops);
+    const now = new Date();
+    const eligibleShops = filterEligibleShops(initialCoffeeShops, now);
+    setRemainingShops(eligibleShops);
+    const firstMatch = createNextMatch(eligibleShops);
     setCurrentMatch(firstMatch);
   }, []);
 
@@ -63,11 +136,15 @@ const Index = () => {
   const handleAnimationComplete = () => {
     if (!currentMatch) return;
 
-    const winner = currentMatch.shop1.id === currentMatch.shop1.id ? currentMatch.shop1 : currentMatch.shop2;
-    
+    const winner =
+      currentMatch.shop1.id === currentMatch.shop1.id
+        ? currentMatch.shop1
+        : currentMatch.shop2;
+
     // Remove both shops from remaining and add winner back to the end
-    const updatedShops = remainingShops.filter(shop => 
-      shop.id !== currentMatch.shop1.id && shop.id !== currentMatch.shop2.id
+    const updatedShops = remainingShops.filter(
+      (shop) =>
+        shop.id !== currentMatch.shop1.id && shop.id !== currentMatch.shop2.id,
     );
     updatedShops.push(winner);
 
@@ -79,10 +156,6 @@ const Index = () => {
       setTournamentComplete(true);
       setCurrentMatch(null);
       setShowAnimation(false);
-      toast({
-        title: "Tournament Complete!",
-        description: `${updatedShops[0].name} is the Coffee Shop Champion!`,
-      });
       return;
     }
 
@@ -93,8 +166,10 @@ const Index = () => {
   };
 
   const resetTournament = () => {
-    setRemainingShops(initialCoffeeShops);
-    const firstMatch = createNextMatch(initialCoffeeShops);
+    const now = new Date();
+    const eligibleShops = filterEligibleShops(initialCoffeeShops, now);
+    setRemainingShops(eligibleShops);
+    const firstMatch = createNextMatch(eligibleShops);
     setCurrentMatch(firstMatch);
     setChampion(null);
     setTournamentComplete(false);
@@ -106,25 +181,29 @@ const Index = () => {
 
   if (tournamentComplete && champion) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-amber-50 to-orange-50 p-4">
+      <div className="min-h-screen bg-gradient-to-br from-stone-50 to-neutral-100 p-4">
         <div className="max-w-4xl mx-auto">
-          <TournamentHeader 
-            title="🏆 Tournament Complete!" 
+          <TournamentHeader
+            title="🏆 Tournament Complete!"
             subtitle="We have a champion!"
           />
-          
-          <Card className="p-8 text-center bg-gradient-to-br from-amber-100 to-orange-100">
+
+          <Card className="p-8 text-center bg-gradient-to-br from-stone-100 to-neutral-50">
             <div className="max-w-md mx-auto">
-              <h2 className="text-3xl font-bold text-amber-900 mb-6">Champion</h2>
+              <h2 className="text-3xl font-bold text-stone-800 mb-6">
+                Champion
+              </h2>
               <img
-                src={`https://images.unsplash.com/${champion.image}?w=400&h=300&fit=crop`}
+                src={champion.image}
                 alt={champion.name}
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
-              <h3 className="text-2xl font-bold text-amber-800 mb-6">{champion.name}</h3>
-              <Button 
+              <h3 className="text-2xl font-bold text-stone-700 mb-6">
+                {champion.name}
+              </h3>
+              <Button
                 onClick={resetTournament}
-                className="bg-amber-600 hover:bg-amber-700 text-white px-8 py-3"
+                className="bg-stone-600 hover:bg-stone-700 text-white px-8 py-3"
               >
                 Start New Tournament
               </Button>
@@ -136,57 +215,59 @@ const Index = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-amber-50 to-orange-50 p-4">
-      {showAnimation && <VotingAnimation onComplete={handleAnimationComplete} />}
-      
+    <div className="min-h-screen bg-gradient-to-br from-stone-50 to-neutral-100 p-4">
+      {showAnimation && (
+        <VotingAnimation onComplete={handleAnimationComplete} />
+      )}
+
       <div className="max-w-4xl mx-auto">
         <TournamentHeader />
-        
+
         {currentMatch && (
           <div className="space-y-6">
             <div className="text-center">
-              <p className="text-amber-700 text-lg mb-4">
+              <p className="text-stone-600 text-lg mb-4">
                 {remainingShops.length} coffee shops remaining
               </p>
             </div>
 
-            <Card className="p-6 bg-gradient-to-br from-amber-50 to-orange-50">
+            <Card className="p-6 bg-gradient-to-br from-stone-50 to-neutral-50">
               <div className="space-y-4">
-                <h3 className="text-center font-semibold text-amber-800 mb-4 text-xl">
+                <h3 className="text-center font-semibold text-stone-700 mb-4 text-xl">
                   Choose your favorite
                 </h3>
-                
+
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                   <CoffeeShopCard
                     coffeeShop={currentMatch.shop1}
                     onVote={() => handleVote(currentMatch.shop1.id)}
                     showVoteButton={true}
                   />
-                  
+
                   <div className="flex items-center justify-center sm:hidden">
-                    <div className="text-amber-600 font-bold text-xl">VS</div>
+                    <div className="text-stone-500 font-bold text-xl">VS</div>
                   </div>
-                  
+
                   <CoffeeShopCard
                     coffeeShop={currentMatch.shop2}
                     onVote={() => handleVote(currentMatch.shop2.id)}
                     showVoteButton={true}
                   />
                 </div>
-                
+
                 <div className="hidden sm:flex items-center justify-center">
-                  <div className="text-amber-600 font-bold text-xl">VS</div>
+                  <div className="text-stone-500 font-bold text-xl">VS</div>
                 </div>
               </div>
             </Card>
           </div>
         )}
-        
+
         <div className="mt-8 text-center">
-          <Button 
+          <Button
             onClick={resetTournament}
             variant="outline"
-            className="border-amber-600 text-amber-600 hover:bg-amber-600 hover:text-white"
+            className="border-stone-500 text-stone-600 hover:bg-stone-500 hover:text-white"
           >
             Reset Tournament
           </Button>
