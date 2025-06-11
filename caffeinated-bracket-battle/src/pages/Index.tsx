@@ -4,7 +4,6 @@ import CoffeeShopCard from "@/components/CoffeeShopCard";
 import VotingAnimation from "@/components/animations/VotingAnimation";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { toast } from "@/hooks/use-toast";
 
 interface CoffeeShop {
   id: string;
@@ -173,10 +172,6 @@ const Index = () => {
     setCurrentMatch(firstMatch);
     setChampion(null);
     setTournamentComplete(false);
-    toast({
-      title: "Tournament Reset",
-      description: "Starting a new coffee shop championship!",
-    });
   };
 
   if (tournamentComplete && champion) {
