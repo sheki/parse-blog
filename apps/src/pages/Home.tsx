@@ -1,7 +1,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Coffee, Home } from "lucide-react";
+import { Coffee, Home, Bus } from "lucide-react";
 
 const HomePage = () => {
   const apps = [
@@ -13,6 +13,15 @@ const HomePage = () => {
       path: "/coffee",
       bgColor: "from-amber-100 to-orange-100",
       borderColor: "border-amber-200"
+    },
+    {
+      id: "bus",
+      title: "Bus Times",
+      description: "Check the next 3 bus times from and to West Oakland BART",
+      icon: <Bus className="w-8 h-8" />,
+      path: "/bus",
+      bgColor: "from-blue-100 to-indigo-100",
+      borderColor: "border-blue-200"
     }
   ];
 
