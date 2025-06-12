@@ -1,8 +1,8 @@
 #!/bin/bash -e
-pushd caffeinated-bracket-battle
+pushd apps
 bun run build
 popd
-rm -rf static/coffee
-mv caffeinated-bracket-battle/dist static/coffee
-git add static/coffee
+rm -rf static/apps
+mv apps/dist static/apps
+git add static/apps
 git commit -m "Deploy coffee"
