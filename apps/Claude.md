@@ -1,0 +1,1 @@
+- Use bun for commands not npm
