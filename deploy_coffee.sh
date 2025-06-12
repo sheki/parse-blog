@@ -5,4 +5,4 @@ popd
 rm -rf static/apps
 mv apps/dist static/apps
 git add static/apps
-git commit -m "Deploy coffee"
+git commit -m "Deploy apps"
