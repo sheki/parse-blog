@@ -144,12 +144,11 @@ const CoffeeApp = () => {
         ? currentMatch.shop1
         : currentMatch.shop2;
 
-    // Remove both shops from remaining and add winner back to the end
+    // Remove only the loser from remaining shops
+    const loser = winner.id === currentMatch.shop1.id ? currentMatch.shop2 : currentMatch.shop1;
     const updatedShops = remainingShops.filter(
-      (shop) =>
-        shop.id !== currentMatch.shop1.id && shop.id !== currentMatch.shop2.id,
+      (shop) => shop.id !== loser.id
     );
-    updatedShops.push(winner);
 
     setRemainingShops(updatedShops);
 
