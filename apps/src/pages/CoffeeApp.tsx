@@ -27,6 +27,7 @@ const CoffeeApp = () => {
   const [champion, setChampion] = useState<CoffeeShop | null>(null);
   const [tournamentComplete, setTournamentComplete] = useState(false);
   const [showAnimation, setShowAnimation] = useState(false);
+  const [selectedWinnerId, setSelectedWinnerId] = useState<string | null>(null);
 
   const initialCoffeeShops: CoffeeShop[] = [
     {
@@ -131,14 +132,15 @@ const CoffeeApp = () => {
   const handleVote = (winnerId: string) => {
     if (!currentMatch) return;
 
+    setSelectedWinnerId(winnerId);
     setShowAnimation(true);
   };
 
   const handleAnimationComplete = () => {
-    if (!currentMatch) return;
+    if (!currentMatch || !selectedWinnerId) return;
 
     const winner =
-      currentMatch.shop1.id === currentMatch.shop1.id
+      currentMatch.shop1.id === selectedWinnerId
         ? currentMatch.shop1
         : currentMatch.shop2;
 
@@ -164,6 +166,7 @@ const CoffeeApp = () => {
     const nextMatch = createNextMatch(updatedShops);
     setCurrentMatch(nextMatch);
     setShowAnimation(false);
+    setSelectedWinnerId(null);
   };
 
   const resetTournament = () => {
