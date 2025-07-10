@@ -14,3 +14,6 @@ draft = false
 # Asia
 
 # USA
+
+## Arizona / South West
+** La Posada Hotel in Winslow Arizona to eat the meat of Navajo-Churro, a sheep breed.
