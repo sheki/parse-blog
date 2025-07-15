@@ -1,7 +1,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Coffee, Home, Bus } from "lucide-react";
+import { Coffee, Home, Bus, Users } from "lucide-react";
 
 const HomePage = () => {
   const apps = [
@@ -22,6 +22,15 @@ const HomePage = () => {
       path: "/bus",
       bgColor: "from-blue-100 to-indigo-100",
       borderColor: "border-blue-200"
+    },
+    {
+      id: "star-realms",
+      title: "Star Realms Score Keeper",
+      description: "Track scores and authority for your Star Realms card game",
+      icon: <Users className="w-8 h-8" />,
+      path: "/star-realms",
+      bgColor: "from-purple-100 to-pink-100",
+      borderColor: "border-purple-200"
     }
   ];
 
