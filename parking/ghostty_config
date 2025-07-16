@@ -1,0 +1,4 @@
+theme = dark:Monokai Pro,light:Monokai Pro Light Sun
+font-family = "JetBrains Mono"
+keybind = global:cmd+grave_accent=toggle_quick_terminal
+keybind = shift+enter=text:\n
