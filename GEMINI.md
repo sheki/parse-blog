@@ -1,0 +1,2 @@
+- If changes are made to app/ run ./deploy_apps.sh
+- Use bun for commands not npm
