@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
 
 *,
@@ -18,7 +19,7 @@ html {
 body {
   font-size: 16px;
   font-size: 1.6rem;
-  font-family: "Fraunces", serif;
+  font-family: "IBM Plex Sans", sans-serif;
   color: #2d3436;
   width: 100%;
   margin: 0 auto;
@@ -30,7 +31,7 @@ body {
 
 header#banner {
   margin: 25px 0;
-  font-family: "Fraunces", serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 header#banner a {

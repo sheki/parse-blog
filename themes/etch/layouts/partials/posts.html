@@ -1,6 +1,10 @@
 <h3>{{ i18n "posts.title" }}</h3>
 <ul id="posts">
-{{- range where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages := .Pages -}}
+{{- if .IsHome -}}
+  {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections -}}
+{{- end -}}
+{{- range .Paginator.Pages | default $pages }}
     {{ .Render "li" }}
 {{- end }}
 </ul>
