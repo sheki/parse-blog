@@ -10,11 +10,11 @@ const App = () => (
   <TooltipProvider>
     <Router basename={import.meta.env.BASE_URL}>
       <Routes>
-        <Route path="/" element={<JournalApp />} />
-        <Route path="/home" element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
         <Route path="/coffee" element={<CoffeeApp />} />
         <Route path="/bus" element={<BusApp />} />
         <Route path="/star-realms" element={<StarRealmsApp />} />
+        <Route path="/journal" element={<JournalApp />} />
       </Routes>
     </Router>
   </TooltipProvider>

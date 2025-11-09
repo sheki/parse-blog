@@ -1,10 +1,19 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Coffee, Home, Bus, Users } from "lucide-react";
+import { Coffee, Home, Bus, Users, BookOpen } from "lucide-react";
 
 const HomePage = () => {
   const apps = [
+    {
+      id: "journal",
+      title: "6-Minute Journal",
+      description: "A guided reflection to add space and freedom around your beliefs",
+      icon: <BookOpen className="w-8 h-8" />,
+      path: "/journal",
+      bgColor: "from-green-100 to-teal-100",
+      borderColor: "border-green-200"
+    },
     {
       id: "coffee",
       title: "Coffee Tournament",
