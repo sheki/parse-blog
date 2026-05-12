@@ -1,7 +1,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Coffee, Home, Bus, Users } from "lucide-react";
+import { Coffee, Home, Bus, Users, Activity } from "lucide-react";
 
 const HomePage = () => {
   const apps = [
@@ -31,6 +31,15 @@ const HomePage = () => {
       path: "/star-realms",
       bgColor: "from-purple-100 to-pink-100",
       borderColor: "border-purple-200"
+    },
+    {
+      id: "stretches",
+      title: "Stretch Break",
+      description: "A randomized 10-minute stretching workout with voice cues",
+      icon: <Activity className="w-8 h-8" />,
+      path: "/stretches",
+      bgColor: "from-emerald-100 to-teal-100",
+      borderColor: "border-emerald-200"
     }
   ];
 

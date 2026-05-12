@@ -4,6 +4,7 @@ import HomePage from "./pages/Home";
 import CoffeeApp from "./pages/CoffeeApp";
 import BusApp from "./pages/BusApp";
 import StarRealmsApp from "./pages/StarRealmsApp";
+import StretchesApp from "./pages/StretchesApp";
 
 const App = () => (
   <TooltipProvider>
@@ -13,6 +14,7 @@ const App = () => (
         <Route path="/coffee" element={<CoffeeApp />} />
         <Route path="/bus" element={<BusApp />} />
         <Route path="/star-realms" element={<StarRealmsApp />} />
+        <Route path="/stretches" element={<StretchesApp />} />
       </Routes>
     </Router>
   </TooltipProvider>
