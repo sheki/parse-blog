@@ -1,10 +1,11 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import HomePage from "./pages/Home";
-import CoffeeApp from "./pages/CoffeeApp";
-import BusApp from "./pages/BusApp";
-import StarRealmsApp from "./pages/StarRealmsApp";
-import StretchesApp from "./pages/StretchesApp";
+import HomePage from "@/pages/Home";
+import CoffeeApp from "@/pages/CoffeeApp";
+import BusApp from "@/pages/BusApp";
+import StarRealmsApp from "@/pages/StarRealmsApp";
+import StretchesApp from "@/pages/StretchesApp";
+import HelldiversApp from "@/pages/HelldiversApp";
 
 const App = () => (
   <TooltipProvider>
@@ -15,6 +16,7 @@ const App = () => (
         <Route path="/bus" element={<BusApp />} />
         <Route path="/star-realms" element={<StarRealmsApp />} />
         <Route path="/stretches" element={<StretchesApp />} />
+        <Route path="/helldivers" element={<HelldiversApp />} />
       </Routes>
     </Router>
   </TooltipProvider>

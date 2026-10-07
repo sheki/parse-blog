@@ -1,0 +1,99 @@
+.helldivers-app {
+  --hd-yellow: #ffe44d;
+  --hd-muted: #a1a5a0;
+  min-height: 100svh;
+  color: #f5f5ed;
+  background: radial-gradient(ellipse at 50% 30%, #23271e 0, #111510 48%, #0c0f0c 100%);
+  padding: 0 24px;
+}
+
+.hd-header {
+  max-width: 1100px;
+  margin: auto;
+  padding: 26px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ffffff16;
+}
+
+.hd-back, .hd-service, .hd-eyebrow, .hd-shuffle-note, .hd-volume {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.hd-back { font-size: 13px; color: #c6c9c0; }
+.hd-back:hover { color: var(--hd-yellow); }
+.hd-service, .hd-eyebrow, .hd-console-top, .hd-transmission-label, .hd-speaker, .hd-library summary, .hd-footer {
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+}
+.hd-service { font-size: 11px; letter-spacing: 1.5px; color: var(--hd-muted); }
+.hd-main { max-width: 600px; margin: auto; padding: 48px 0 30px; }
+.hd-eyebrow { justify-content: center; font-size: 11px; letter-spacing: 2px; color: var(--hd-yellow); }
+.hd-eyebrow > span { height: 6px; width: 6px; background: var(--hd-yellow); }
+.hd-main h1 { font-size: clamp(38px, 8vw, 62px); line-height: 1.04; letter-spacing: -2.5px; font-weight: 900; text-align: center; margin: 20px 0 16px; }
+.hd-main h1 > span { color: var(--hd-yellow); }
+.hd-intro { text-align: center; color: #b6baaf; font-size: 14px; line-height: 1.7; }
+.hd-console { margin-top: 32px; border: 1px solid #484b3a; border-radius: 12px; background: #191d17; overflow: hidden; box-shadow: 0 24px 70px #0005; }
+.hd-console-top { padding: 14px 20px; display: flex; justify-content: space-between; gap: 12px; font-size: 9px; letter-spacing: 1.4px; color: var(--hd-muted); border-bottom: 1px solid #ffffff10; }
+.hd-button-mount { position: relative; display: grid; place-items: center; padding: 32px 0 26px; }
+.hd-button-orbit { position: absolute; width: 268px; height: 268px; border: 1px dashed #ffe44d36; border-radius: 50%; pointer-events: none; }
+.hd-launch { position: relative; width: 236px; height: 236px; border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 13px; border: 7px solid #353928; background: var(--hd-yellow); color: #1b2013; box-shadow: 0 8px 0 #857423, 0 14px 30px #0007, inset 0 2px 0 #fff9; transition: transform 120ms ease, box-shadow 120ms ease, background 120ms ease; cursor: pointer; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
+.hd-launch:hover { background: #ffed80; transform: translateY(-2px); }
+.hd-launch:active { transform: translateY(6px); box-shadow: 0 2px 0 #857423, 0 6px 18px #0007; }
+.hd-launch:focus-visible { outline: 3px solid #fff; outline-offset: 8px; }
+.hd-launch > span:not(.hd-launch-hint) { font-size: 23px; font-weight: 900; line-height: 1.05; letter-spacing: -.6px; }
+.hd-launch .hd-launch-hint { font-family: ui-monospace, monospace; font-size: 9px; font-weight: 700; letter-spacing: 1px; }
+.hd-shuffle-note { justify-content: center; padding: 16px 16px 25px; font-size: 11px; line-height: 1.5; color: var(--hd-muted); text-align: center; }
+.hd-shuffle-note svg { flex-shrink: 0; }
+.hd-transmission { margin: 0 20px; padding: 19px 20px; background: #0e120d; border: 1px solid #343a2d; border-left: 3px solid var(--hd-yellow); border-radius: 4px; min-height: 155px; }
+.hd-transmission-label { display: flex; align-items: center; justify-content: space-between; font-size: 10px; text-transform: uppercase; letter-spacing: 1.6px; color: var(--hd-muted); }
+.hd-transmission-label > span { display: flex; align-items: center; gap: 8px; }
+.hd-status-dot { width: 5px; height: 5px; border-radius: 50%; background: #777e71; }
+.hd-status-active { background: var(--hd-yellow); box-shadow: 0 0 8px #ffe44d70; }
+.hd-quote { font-size: 23px; font-weight: 700; line-height: 1.35; margin: 16px 0 9px; overflow-wrap: anywhere; }
+.hd-quote-empty { font-size: 20px; color: #8e9588; font-weight: 500; }
+.hd-speaker { font-size: 10px; color: var(--hd-muted); letter-spacing: .7px; }
+.hd-error { font-size: 13px; color: #ffc3a3; margin-top: 12px; }
+.hd-wave { height: 14px; display: flex; align-items: center; gap: 3px; }
+.hd-wave i { width: 2px; height: 3px; background: #626b58; }
+.hd-broadcasting .hd-wave i { background: var(--hd-yellow); animation: hd-wave 650ms ease-in-out infinite alternate; }
+.hd-broadcasting .hd-wave i:nth-child(2n) { animation-delay: -300ms; }
+.hd-broadcasting .hd-wave i:nth-child(3n) { animation-delay: -500ms; }
+.hd-controls { display: flex; justify-content: space-between; align-items: center; padding: 12px 20px; gap: 20px; }
+.hd-volume { color: var(--hd-muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.hd-volume input { accent-color: var(--hd-yellow); width: 100px; height: 32px; cursor: pointer; }
+.hd-volume > span:last-child { min-width: 32px; }
+.hd-controls .hd-stop { color: #c5cabb; }
+.hd-controls .hd-stop:hover { background: #333b2c; color: #fff; }
+.hd-library { margin-top: 20px; border: 1px solid #ffffff19; border-radius: 6px; padding: 16px 18px; }
+.hd-library summary { cursor: pointer; color: #b1b7a7; font-size: 10px; letter-spacing: 1px; }
+.hd-library summary > span { float: right; color: #929987; }
+.hd-library ol { margin-top: 14px; list-style: decimal-leading-zero inside; font-size: 13px; color: #d1d6c8; }
+.hd-library li { padding: 10px 0; border-top: 1px solid #ffffff0d; }
+.hd-library li > span { margin-left: 6px; }
+.hd-library a { float: right; padding: 3px; color: var(--hd-muted); }
+.hd-library a:hover { color: var(--hd-yellow); }
+.hd-footer { margin-top: 28px; text-align: center; font-size: 10px; letter-spacing: 1.5px; color: #afb6a3; line-height: 2.1; }
+.hd-footer > span { color: #8a9282; font-size: 10px; letter-spacing: 0; }
+
+@keyframes hd-wave { from { height: 3px; } to { height: 14px; } }
+
+@media (max-width: 480px) {
+  .helldivers-app { padding: 0 16px; }
+  .hd-header { padding: 20px 0; }
+  .hd-service { font-size: 8px; letter-spacing: .5px; gap: 5px; }
+  .hd-main { padding-top: 32px; }
+  .hd-console-top { padding: 12px; font-size: 8px; letter-spacing: .5px; }
+  .hd-transmission { margin: 0 12px; padding: 16px; }
+  .hd-quote { font-size: 21px; }
+  .hd-controls { padding: 12px; gap: 8px; }
+  .hd-library { padding: 14px 12px; }
+  .hd-library li { font-size: 12px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hd-launch { transition: none; }
+  .hd-broadcasting .hd-wave i { animation: none; height: 10px; }
+}

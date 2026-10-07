@@ -1,10 +1,19 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Coffee, Home, Bus, Users, Activity } from "lucide-react";
+import { Coffee, Home, Bus, Users, Activity, Radio } from "lucide-react";
 
 const HomePage = () => {
   const apps = [
+    {
+      id: "helldivers",
+      title: "Helldivers 2 Sound Button",
+      description: "Ten iconic and ridiculous voice lines. One button. For Super Earth!",
+      icon: <Radio className="w-8 h-8" />,
+      path: "/helldivers",
+      bgColor: "from-yellow-100 to-amber-100",
+      borderColor: "border-yellow-300"
+    },
     {
       id: "coffee",
       title: "Coffee Tournament",
