@@ -1,0 +1,7 @@
+# Day 6 of 21 Ways to Feel Good About Yourself
+
+On this sixth day of the Feeling Good About Yourself 21 day challenge, we'll be focusing on something that can be very hard to do, but very powerful: self-acceptance.
+
+## Accept yourself as you are.
+
+You are what you are, and you cannot change how you are in this instant, though you can create the causes that will develop you in the future. But at any moment of now, there is nothing you can do besides accept it and act to improve it. In particular, try to accept the vulnerable or not-so-pretty parts of yourself — it's not bad to be anxious, sad, or needy. We all have parts of ourselves that we struggle with or wish were different. Maybe it's insecurities, bad habits, or just aspects of our personality that we judge as negative. But rejecting or fighting against these parts of who we are actually causes more inner pain and fragmentation. The wise path is to open up to yourself with compassion—to accept all of your experiences, all of your feelings, all of your memories, all of your traits wholeheartedly. This doesn't mean resigning yourself to harmful behaviors, but it does mean regarding yourself with understanding rather than hatred. When you accept yourself fully, you become more integrated, less thrown around by inner criticism, and more able to work with your difficulties from a place of caring rather than shame. Believe me, I know how hard this can be. But it's profoundly healing to simply allow yourself to be human.

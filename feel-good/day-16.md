@@ -1,0 +1,7 @@
+# Day 16 of 21 Ways to Feel Good About Yourself
+
+Were you able to ask for some appropriate positive feedback yesterday? If so, how did it feel? Take a moment to take that in! And now we're onto...
+
+## Get a sense or image of internal nurturing and encouraging figures.
+
+We all carry within us the tender wounds of times we didn't receive the unconditional love, validation, or emotional safety we needed, especially as children. Perhaps a parent was harsh, critical, or emotionally unavailable. Or we experienced rejection, neglect, or even abuse from caregivers. Those painful experiences can leave an inner void and longing for the soothing balm of being truly seen, cherished, and encouraged in our inherent goodness. The solution lies in turning inward and consciously cultivating the nurturing inner presence we've always yearned for. By building up the vividness of these internal "nurturing parents" and compassionate guides, we can finally provide the unconditional acceptance and loving encouragement our souls have been craving. So try to call up images such as the loving eyes of your doting grandmother, a guardian angel, or simply a clear voice of reason about your good qualities. Build up the realness of those internal “nurturing parent,” “protector,” or “guide” figures, and listen to them more often. Over time and with regular practice, this inner nurturer can become a lifelong source of profound nourishment and grounding. No matter what storms you weather in this life, you'll be able to return again and again to its unwavering embrace.

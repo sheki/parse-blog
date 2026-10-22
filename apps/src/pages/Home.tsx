@@ -1,10 +1,19 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Coffee, Home, Bus, Users, Activity, Radio } from "lucide-react";
+import { Coffee, Home, Bus, Users, Activity, Radio, Sun } from "lucide-react";
 
 const HomePage = () => {
   const apps = [
+    {
+      id: "feel-good",
+      title: "Feel Good",
+      description: "21 gentle daily practices for feeling good about yourself",
+      icon: <Sun className="w-8 h-8" />,
+      path: "/feel-good",
+      bgColor: "from-amber-50 to-emerald-50",
+      borderColor: "border-emerald-200"
+    },
     {
       id: "helldivers",
       title: "Helldivers 2 Sound Button",

@@ -1,0 +1,44 @@
+.feel-app { min-height: 100vh; background: #f7f5ee; color: #35473d; padding: 24px; }
+.feel-shell { max-width: 1100px; margin: auto; }
+.feel-nav { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: 13px; }
+.feel-nav a { display: flex; align-items: center; gap: 8px; }
+.feel-header { text-align: center; padding: 45px 0 42px; }
+.feel-sun { display: inline-flex; padding: 18px; background: #f1e7c9; border-radius: 50%; color: #977133; margin-bottom: 20px; }
+.feel-eyebrow { font-size: 10px; letter-spacing: .19em; font-weight: 600; }
+.feel-header h1 { font: 48px/1.15 Georgia, serif; letter-spacing: -.03em; margin: 16px 0; }
+.feel-header > p:last-child { font-size: 15px; color: #6c756b; }
+.feel-layout { display: grid; grid-template-columns: minmax(0, 1fr) 265px; gap: 42px; align-items: start; }
+.feel-card { background: #fffef9; border: 1px solid #e5e6db; border-radius: 18px; padding: 38px 44px; box-shadow: 0 12px 35px #36473806; }
+.feel-card-top { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; font-size: 10px; letter-spacing: .1em; color: #687b64; padding-bottom: 26px; border-bottom: 1px solid #e8e9df; }
+.feel-message { font: 17px/1.85 Georgia, serif; color: #475247; }
+.feel-message p { margin: 22px 0; }
+.feel-message h2 { font: 30px/1.25 Georgia, serif; color: #263d30; margin: 28px 0 20px; overflow-wrap: anywhere; }
+.feel-message ul, .feel-message ol { padding-left: 25px; margin: 12px 0; list-style: revert; }
+.feel-card-footer { border-top: 1px solid #e8e9df; padding-top: 24px; margin-top: 30px; }
+.feel-card-footer > p { font-size: 13px; line-height: 1.7; color: #6c756b; margin-bottom: 18px; }
+.feel-complete { background: #405d45; border-radius: 24px; white-space: normal; height: auto; min-height: 44px; }
+.feel-complete:hover { background: #304b35; }
+.feel-complete:disabled { opacity: 1; background: #e5ecdf; color: #405d45; }
+.feel-card-footer .feel-status { margin: 12px 0 0; font-size: 12px; }
+.feel-collection { padding-top: 24px; }
+.feel-collection h2 { font: 25px/1.3 Georgia, serif; margin: 14px 0; }
+.feel-collection > p:not(.feel-eyebrow) { color: #6c756b; font-size: 13px; line-height: 1.7; }
+.feel-days { display: grid; grid-template-columns: repeat(7, 1fr); gap: 5px; margin: 24px 0 14px; }
+.feel-days button { position: relative; border: 1px solid #dedfd3; border-radius: 9px; min-height: 38px; font-size: 12px; }
+.feel-days button:hover { background: #e8ecdf; }
+.feel-days button.selected { background: #405d45; color: white; border-color: #405d45; }
+.feel-dot { position: absolute; bottom: 4px; left: calc(50% - 2px); width: 4px; height: 4px; background: currentColor; border-radius: 50%; }
+.feel-aside-note { border-top: 1px solid #dcded2; margin-top: 28px; padding-top: 24px; font: italic 19px/1.6 Georgia, serif; color: #71816c; }
+.feel-bottom { text-align: center; font-size: 11px; color: #70786c; margin: 30px 0 12px; }
+.feel-warning { padding: 14px; background: #fff0cf; margin-bottom: 20px; border-radius: 10px; }
+.feel-app button:focus-visible, .feel-app a:focus-visible { outline: 2px solid #405d45; outline-offset: 4px; }
+@media (max-width: 760px) {
+  .feel-app { padding: 18px; }
+  .feel-header { padding: 32px 0; }
+  .feel-header h1 { font-size: 38px; }
+  .feel-layout { grid-template-columns: 1fr; gap: 12px; }
+  .feel-card { padding: 25px; }
+  .feel-message h2 { font-size: 27px; }
+  .feel-collection { padding: 24px 8px; }
+  .feel-days button { min-height: 44px; }
+}

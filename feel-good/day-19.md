@@ -1,0 +1,7 @@
+# Day 19 of 21 Ways to Feel Good About Yourself
+
+So often, we let our persistent inner critic run rampant, berating us with irrational, self-diminishing thoughts that chip away at our sense of worth. But you don't have to be a passive recipient of those self-critical thoughts. You can choose to...
+
+## Stick up for yourself within yourself.
+
+Talk back to irrational or self-critical thoughts. Maybe it's the tendency to compare yourself unfavorably (and unfairly) to others, obsessing over where you fall short. Or equating the worth of who you are with the success of what you do. That ruthless inner voice can be relentless, distorting reality, and leaving you feeling inadequate and ashamed. When that inner voice starts comparing you unfavorably to others, remind it "I'm on my own journey with my own unique strengths. That comparison is irrational and unhelpful." If it tries to define your entire worth by your achievements or relationship status, you can counter "I am so much more than any single aspect of my life's journey. My fundamental value as a human being is inherent and cannot be measured externally." You can even give that inner voice a silly name to separate it from your true self. "Thanks for the input, Grinch, but I don't actually buy into that today. I know my worth." At first, it may feel awkward or even embarrassing to verbally stick up for yourself in this way. But keep at it! You're reclaiming your inner sanctuary from the harsh judgments and irrational beliefs that have been allowed to fester there.

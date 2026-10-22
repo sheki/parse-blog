@@ -7,11 +7,14 @@ import StarRealmsApp from "@/pages/StarRealmsApp";
 import StretchesApp from "@/pages/StretchesApp";
 import HelldiversApp from "@/pages/HelldiversApp";
 
+import FeelGoodApp from "@/pages/FeelGoodApp";
+
 const App = () => (
   <TooltipProvider>
     <Router basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="/" element={<HomePage />} />
+        <Route path="/feel-good" element={<FeelGoodApp />} />
         <Route path="/coffee" element={<CoffeeApp />} />
         <Route path="/bus" element={<BusApp />} />
         <Route path="/star-realms" element={<StarRealmsApp />} />
