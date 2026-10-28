@@ -1,10 +1,19 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Coffee, Home, Bus, Users, Activity, Radio, Sun, Wand2 } from "lucide-react";
+import { Coffee, Home, Bus, Users, Activity, Radio, Sun, Wand2, DoorOpen } from "lucide-react";
 
 const HomePage = () => {
   const apps = [
+    {
+      id: "floor-plan",
+      title: "Emotional Floor Plan",
+      description: "Map your seven core emotional rooms from Emily Nagoski's Come Together",
+      icon: <DoorOpen className="w-8 h-8" />,
+      path: "/floor-plan",
+      bgColor: "from-sky-100 to-blue-100",
+      borderColor: "border-sky-200"
+    },
     {
       id: "sorting-hat",
       title: "The Sorting Hat",
