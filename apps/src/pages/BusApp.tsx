@@ -53,7 +53,7 @@ const BusApp = () => {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
+    <div className="min-h-screen bg-linear-to-br from-blue-50 to-indigo-100 p-4">
       <div className="max-w-4xl mx-auto">
         <div className="mb-6">
           <Link to="/">
@@ -77,7 +77,7 @@ const BusApp = () => {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <Card className="p-6 bg-gradient-to-br from-blue-50 to-indigo-50">
+          <Card className="p-6 bg-linear-to-br from-blue-50 to-indigo-50">
             <h2 className="text-2xl font-bold text-blue-800 mb-4">
               From West Oakland BART
             </h2>
@@ -86,7 +86,7 @@ const BusApp = () => {
                 nextBuses.fromWestOakland.map((time, index) => (
                   <div 
                     key={index}
-                    className="flex items-center justify-between p-3 bg-white rounded-lg shadow-sm"
+                    className="flex items-center justify-between p-3 bg-white rounded-lg shadow-xs"
                   >
                     <span className="text-lg font-semibold text-blue-700">
                       {time}
@@ -104,7 +104,7 @@ const BusApp = () => {
             </div>
           </Card>
 
-          <Card className="p-6 bg-gradient-to-br from-green-50 to-emerald-50">
+          <Card className="p-6 bg-linear-to-br from-green-50 to-emerald-50">
             <h2 className="text-2xl font-bold text-green-800 mb-4">
               To West Oakland BART
             </h2>
@@ -113,7 +113,7 @@ const BusApp = () => {
                 nextBuses.toWestOakland.map((time, index) => (
                   <div 
                     key={index}
-                    className="flex items-center justify-between p-3 bg-white rounded-lg shadow-sm"
+                    className="flex items-center justify-between p-3 bg-white rounded-lg shadow-xs"
                   >
                     <span className="text-lg font-semibold text-green-700">
                       {time}

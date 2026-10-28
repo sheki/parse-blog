@@ -242,7 +242,7 @@ export default function StretchesApp() {
   const next = slots[slotIndex + 1];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-slate-100">
+    <div className="min-h-screen bg-linear-to-br from-slate-900 via-slate-800 to-slate-900 text-slate-100">
       <div className="mx-auto max-w-2xl px-6 py-8">
         <div className="mb-6">
           <Link

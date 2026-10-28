@@ -55,7 +55,7 @@ const TournamentBracket = ({ matches, onVote, currentRound, totalRounds }: Tourn
 
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
         {matches.map((match) => (
-          <Card key={match.id} className="p-6 bg-gradient-to-br from-amber-50 to-orange-50">
+          <Card key={match.id} className="p-6 bg-linear-to-br from-amber-50 to-orange-50">
             <div className="space-y-4">
               <h3 className="text-center font-semibold text-amber-800 mb-4">Match {match.id}</h3>
               

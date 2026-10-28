@@ -180,7 +180,7 @@ const CoffeeApp = () => {
 
   if (tournamentComplete && champion) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-stone-50 to-neutral-100 p-4">
+      <div className="min-h-screen bg-linear-to-br from-stone-50 to-neutral-100 p-4">
         <div className="max-w-4xl mx-auto">
           <div className="mb-6">
             <Link to="/">
@@ -199,7 +199,7 @@ const CoffeeApp = () => {
             subtitle="We have a champion!"
           />
 
-          <Card className="p-8 text-center bg-gradient-to-br from-stone-100 to-neutral-50">
+          <Card className="p-8 text-center bg-linear-to-br from-stone-100 to-neutral-50">
             <div className="max-w-md mx-auto">
               <h2 className="text-3xl font-bold text-stone-800 mb-6">
                 Champion
@@ -226,7 +226,7 @@ const CoffeeApp = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-stone-50 to-neutral-100 p-4">
+    <div className="min-h-screen bg-linear-to-br from-stone-50 to-neutral-100 p-4">
       {showAnimation && (
         <VotingAnimation onComplete={handleAnimationComplete} />
       )}
@@ -254,7 +254,7 @@ const CoffeeApp = () => {
               </p>
             </div>
 
-            <Card className="p-6 bg-gradient-to-br from-stone-50 to-neutral-50">
+            <Card className="p-6 bg-linear-to-br from-stone-50 to-neutral-50">
               <div className="space-y-4">
                 <h3 className="text-center font-semibold text-stone-700 mb-4 text-xl">
                   Choose your favorite

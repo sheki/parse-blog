@@ -43,7 +43,7 @@ const VotingAnimation = ({ onComplete }: VotingAnimationProps) => {
 
   return (
     <div 
-      className={`fixed inset-0 bg-amber-50/80 backdrop-blur-sm flex items-center justify-center z-50 transition-transform duration-500 ease-out ${
+      className={`fixed inset-0 bg-amber-50/80 backdrop-blur-xs flex items-center justify-center z-50 transition-transform duration-500 ease-out ${
         isVisible ? 'translate-x-0 translate-y-0' : slideDirection
       }`}
     >

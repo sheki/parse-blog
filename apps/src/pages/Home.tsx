@@ -62,7 +62,7 @@ const HomePage = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-gray-100 p-4">
+    <div className="min-h-screen bg-linear-to-br from-slate-50 to-gray-100 p-4">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <div className="flex items-center justify-center mb-4">
@@ -80,7 +80,7 @@ const HomePage = () => {
           {apps.map((app) => (
             <Card 
               key={app.id} 
-              className={`bg-gradient-to-br ${app.bgColor} ${app.borderColor} hover:shadow-lg transition-shadow duration-300`}
+              className={`bg-linear-to-br ${app.bgColor} ${app.borderColor} hover:shadow-lg transition-shadow duration-300`}
             >
               <CardHeader className="text-center pb-4">
                 <div className="flex justify-center mb-3">

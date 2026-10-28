@@ -11,7 +11,7 @@ const TournamentHeader = ({
   subtitle = "Vote for your favorite local coffee spots!" 
 }: TournamentHeaderProps) => {
   return (
-    <div className="text-center py-8 bg-white border border-stone-200 rounded-xl mb-8 shadow-sm">
+    <div className="text-center py-8 bg-white border border-stone-200 rounded-xl mb-8 shadow-xs">
       <div className="flex justify-center mb-4">
         <div className="bg-stone-100 p-3 rounded-full">
           <Coffee className="w-8 h-8 text-stone-600" />
