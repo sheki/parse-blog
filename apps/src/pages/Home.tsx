@@ -1,10 +1,19 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Coffee, Home, Bus, Users, Activity, Radio, Sun } from "lucide-react";
+import { Coffee, Home, Bus, Users, Activity, Radio, Sun, Wand2 } from "lucide-react";
 
 const HomePage = () => {
   const apps = [
+    {
+      id: "sorting-hat",
+      title: "The Sorting Hat",
+      description: "15 questions under the enchanted ceiling. Which Hogwarts house do you belong in?",
+      icon: <Wand2 className="w-8 h-8" />,
+      path: "/sorting-hat",
+      bgColor: "from-indigo-100 to-amber-100",
+      borderColor: "border-indigo-200"
+    },
     {
       id: "feel-good",
       title: "Feel Good",

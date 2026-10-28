@@ -6,6 +6,7 @@ import BusApp from "@/pages/BusApp";
 import StarRealmsApp from "@/pages/StarRealmsApp";
 import StretchesApp from "@/pages/StretchesApp";
 import HelldiversApp from "@/pages/HelldiversApp";
+import SortingHatApp from "@/pages/SortingHatApp";
 
 import FeelGoodApp from "@/pages/FeelGoodApp";
 
@@ -20,6 +21,7 @@ const App = () => (
         <Route path="/star-realms" element={<StarRealmsApp />} />
         <Route path="/stretches" element={<StretchesApp />} />
         <Route path="/helldivers" element={<HelldiversApp />} />
+        <Route path="/sorting-hat" element={<SortingHatApp />} />
       </Routes>
     </Router>
   </TooltipProvider>
